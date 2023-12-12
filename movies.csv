@@ -1,0 +1,1001 @@
+id;movie;genders;duration;director;price;release_on;rent_to;rent_on;status
+1;Conjuring, The;Horror|Thriller;155;Amata Schultes;23.63;25/08/2023;;;Disponible
+2;Married Life;Crime|Drama|Romance;156;Carleton Gronaver;66.16;01/01/2023;;;Disponible
+3;Genocide (Konchû daisensô);Horror|Sci-Fi;224;Ardenia Gobeaux;44.98;15/11/2022;;;Disponible
+4;American Loser (Trainwreck: My Life as an Idiot);Comedy|Drama;92;Cooper Bolzen;148.01;24/09/2023;5;Ruins;Documentary;111;Gareth Row;37.85;28/01/2023;30459620;2023-12-12;rentada
+5;Ruins;Documentary;111;Gareth Row;37.85;28/01/2023;;;rentada;Disponible;Disponible
+Disponible
+7;Let the Right One In (Låt den rätte komma in);Drama|Fantasy|Horror|Romance;91;Roseanne Steward;87.67;25/04/2023;;;Disponible
+8;Human Planet;Documentary;195;Terry Rogerson;60.41;13/12/2022;;;Disponible
+9;Beau Pere (a.k.a. Stepfather) (Beau-père);Drama;182;Emmalynne Conlaund;72.62;11/03/2023;;;Disponible
+10;Goebbels Experiment, The (Das Goebbels Experiment);Documentary;233;Loella Gaspar;125.84;06/07/2023;;;Disponible
+11;Josephine;Comedy|Romance;209;El Brisse;21.67;30/12/2022;;;Disponible
+12;The Inhabited Island 2: Rebellion;Action|Adventure|Sci-Fi;152;Jesselyn Whodcoat;32.59;07/10/2023;;;Disponible
+13;Firm, The;Drama|Thriller;148;Joannes Hankin;43.07;16/04/2023;;;Disponible
+14;What If;Comedy|Drama|Romance;101;Shirlene Spellesy;45.54;12/09/2023;;;Disponible
+15;Red Ensign;(no genres listed);155;Aubrey Edbrooke;124.36;13/09/2023;;;Disponible
+16;Zatoichi the Fugitive (Zatôichi kyôjô-tabi) (Zatôichi 4);Action|Drama;209;Gwennie Kohrding;45.76;17/05/2023;;;Disponible
+17;Cheers for Miss Bishop;Drama;183;Beryle Schruur;149.98;05/07/2023;;;Disponible
+18;Alien Nation: Dark Horizon;Drama|Sci-Fi;140;Lombard Pincott;26.42;03/04/2023;;;Disponible
+19;Number 23, The;Drama|Mystery|Thriller;125;Mohandis Bargery;148.25;28/02/2023;;;Disponible
+20;Notti bianche, Le (White Nights);Drama|Romance;170;Raymund Reddie;97.76;26/05/2023;;;Disponible
+21;Big Broadcast of 1938, The;Comedy|Musical|Romance;103;Xerxes McGriffin;25.24;02/08/2023;;;Disponible
+22;Artois the Goat;Comedy;130;Minnaminnie Darrigrand;97.23;15/07/2023;;;Disponible
+23;Satan's School for Girls;Crime|Horror|Mystery;225;Timotheus Peaurt;30.64;21/05/2023;;;Disponible
+24;Dark Horse (Voksne mennesker);Comedy|Drama|Romance;147;Vera Stedson;97.88;12/08/2023;;;Disponible
+25;Mother and the Whore, The (Maman et la putain, La);Drama;196;Maurizia Sambath;75.73;20/01/2023;;;Disponible
+26;Fed Up;Documentary;127;Winnie Alexandersson;114.54;06/05/2023;;;Disponible
+27;Couch Trip, The;Comedy;163;Delmore Robotham;123.06;19/10/2023;;;Disponible
+28;I Think I Do;Comedy;166;Henry Cawthron;61.92;06/06/2023;;;Disponible
+29;Bad Johnson;Comedy|Fantasy;146;Dory Boothe;131.79;26/03/2023;;;Disponible
+30;Dead or Alive 2: Tôbôsha;Action|Crime|Thriller;150;Rayna Loveguard;66.07;17/07/2023;;;Disponible
+31;Dust Factory, The;Adventure|Children|Romance;203;Jarad Lodemann;136.61;31/10/2023;;;Disponible
+32;12 Storeys (Shier lou);Comedy|Drama;204;Arlan Manville;129.38;21/10/2023;;;Disponible
+33;Barbie: A Fashion Fairytale;Animation|Children;100;Reagen Cosin;52.27;02/04/2023;;;Disponible
+34;Messiah of Evil;Horror;136;Nickie Pinch;21.42;16/07/2023;;;Disponible
+35;Random Hearts;Drama|Romance;176;Rubi Redish;131.93;20/03/2023;;;Disponible
+36;Fist of Jesus;(no genres listed);157;Humbert Baroc;97.94;06/10/2023;;;Disponible
+37;Justin and the Knights of Valour;Adventure|Animation;143;Culley Ovendon;106.65;26/03/2023;;;Disponible
+38;Dying Gaul, The;Drama|Romance;168;Tamara Stearley;111.45;11/06/2023;;;Disponible
+39;Coco Chanel & Igor Stravinsky;Drama|Romance;146;Jaquelyn Fidian;99.03;01/04/2023;;;Disponible
+40;Big Eyes;Drama;232;Chadd Pauer;64.99;10/05/2023;;;Disponible
+41;Macbeth;Drama;151;Yoko Matula;115.43;28/04/2023;;;Disponible
+42;Flight 93;Drama;159;Lainey Faiers;81.21;07/09/2023;;;Disponible
+43;Lost World: Jurassic Park, The;Action|Adventure|Sci-Fi|Thriller;107;Henryetta Folke;98.97;27/08/2023;;;Disponible
+44;Life After Tomorrow;Documentary;121;Perry Duggary;21.07;23/02/2023;;;Disponible
+45;Bound by Honor (a.k.a. Blood In, Blood Out);Action|Crime|Drama|Thriller;132;Colet Worge;65.68;03/03/2023;;;Disponible
+46;Nest, The (Nid de Guêpes);Action|Crime|Thriller;215;Reed Veschambre;37.99;06/06/2023;;;Disponible
+47;Dorm Daze (National Lampoon Presents Dorm Daze);Comedy;122;Humphrey Spours;115.52;11/04/2023;;;Disponible
+48;Yeh Jawaani Hai Deewani;Comedy|Drama|Musical|Romance;187;Leonard Dorkin;56.11;18/04/2023;;;Disponible
+49;Apt Pupil;Drama|Thriller;174;Ky Dare;73.29;05/09/2023;;;Disponible
+50;American Gun;Drama;220;Valentina Pitbladdo;65.48;24/12/2022;;;Disponible
+51;Chains (Catene);Crime|Drama;209;Cherlyn MacKaig;69.65;31/05/2023;;;Disponible
+52;Mighty Morphin Power Rangers: The Movie;Action|Children;137;Alberto Allenson;55.99;04/04/2023;;;Disponible
+53;I Stand Alone (Seul contre tous);Drama|Thriller;183;Dyan Mariault;116.32;20/01/2023;;;Disponible
+54;Keys of the Kingdom, The;Drama;91;Demetria Arnatt;82.9;02/01/2023;;;Disponible
+55;Good Woman, A;Comedy|Drama|Romance;177;Vidovic Lalley;105.0;31/05/2023;;;Disponible
+56;Transformers: Dark of the Moon;Action|Adventure|Sci-Fi|War|IMAX;219;Sonya Vernham;71.58;01/04/2023;;;Disponible
+57;Man with the Iron Fists, The;Action|Adventure|Crime;175;Karna Titterrell;148.36;11/06/2023;;;Disponible
+58;Tortilla Soup;Comedy|Romance;96;Zelda Gambell;126.38;20/02/2023;;;Disponible
+59;Woo;Comedy|Romance;133;Lin Lord;17.22;02/04/2023;;;Disponible
+60;Phffft;Comedy|Romance;183;Delmar Medcalf;146.89;05/06/2023;;;Disponible
+61;Rapa Nui;Action|Adventure|Drama|Romance;228;Niven Panniers;90.03;08/09/2023;;;Disponible
+62;Terminator, The;Action|Sci-Fi|Thriller;222;Georgianne Lghan;69.55;24/06/2023;;;Disponible
+63;Anatomy (Anatomie);Horror;106;Maia Heard;138.75;24/08/2023;;;Disponible
+64;If You Are the One;Comedy|Romance;115;Yale Scoone;24.66;01/05/2023;;;Disponible
+65;Ledge, The;Drama|Thriller;231;Rozelle Shark;62.8;18/04/2023;;;Disponible
+66;Wind, The;Drama|Western;191;Aleda Bryce;62.88;10/01/2023;;;Disponible
+67;Patrice O'Neal: Elephant in the Room;Comedy;106;Sheila-kathryn Floyd;117.9;27/04/2023;;;Disponible
+68;Texas Chainsaw Massacre: The Next Generation (a.k.a. The Return of the Texas Chainsaw Massacre);Horror;219;Britt Pridie;126.88;24/02/2023;;;Disponible
+69;Room, The;Comedy|Drama|Romance;99;Frankie Smallridge;10.04;31/03/2023;;;Disponible
+70;Pickle, The;Comedy;197;Cookie Rushbrooke;47.11;05/08/2023;;;Disponible
+71;Destination Gobi;Adventure|Drama|War;115;Russell Crewe;75.63;31/12/2022;;;Disponible
+72;Bone Man, The (Der Knochenmann);Crime|Thriller;161;Susy Bucham;129.45;23/03/2023;;;Disponible
+73;Juha;Comedy|Drama|Romance;181;Theresa Oldnall;52.88;29/03/2023;;;Disponible
+74;Sokkotanssi;Comedy|Drama;224;Bary Ashbrook;22.19;10/05/2023;;;Disponible
+75;Sasayaki (a.k.a. Moonlight Whispers) (Gekkô no sasayaki);Drama|Romance;156;Reagan Bannard;133.78;02/06/2023;;;Disponible
+76;Familiar Ground;Comedy;193;Kelbee Saunder;79.65;15/05/2023;;;Disponible
+77;Deliverance Creek;Drama;103;Lian Fuidge;65.8;22/09/2023;;;Disponible
+78;Gunday;Action|Crime|Drama;195;Eamon Baterip;145.25;05/05/2023;;;Disponible
+79;Cthulhu;Drama|Thriller;236;Kerry Broadbridge;64.33;03/12/2022;;;Disponible
+80;Stakeout on Dope Street;Crime|Drama;188;Chelsea Porcher;90.21;13/11/2022;;;Disponible
+81;Summer School;Comedy;121;Bartholomeus Bratley;114.06;31/10/2023;;;Disponible
+82;Rent;Drama|Musical|Romance;212;Julianna Lambert;139.73;10/10/2023;;;Disponible
+83;Pursuit of Happyness, The;Drama;233;Sheridan Thursfield;137.22;01/01/2023;;;Disponible
+84;League of Extraordinary Gentlemen, The (a.k.a. LXG);Action|Fantasy|Sci-Fi;212;Helenelizabeth Coode;90.4;15/07/2023;;;Disponible
+85;Woods, The;Horror;116;Adela Laycock;17.86;04/10/2023;;;Disponible
+86;Mág;Drama;94;Jaime Janu;10.92;01/03/2023;;;Disponible
+87;Buffalo Bill;Western;202;Turner Scullin;128.16;05/02/2023;;;Disponible
+88;All Dogs Go to Heaven 2;Adventure|Animation|Children|Fantasy|Musical|Romance;197;Alli Kinghorne;103.64;25/03/2023;;;Disponible
+89;Boom Town;Adventure|Drama|Romance;146;Charles Bass;142.87;09/04/2023;;;Disponible
+90;Suicide Kings;Comedy|Crime|Drama|Mystery|Thriller;225;Michail Jedrzejewicz;61.68;24/07/2023;;;Disponible
+91;Casino Jack;Comedy|Crime;102;Drusi Pack;39.48;15/09/2023;;;Disponible
+92;Luna Papa;Comedy|Drama|Fantasy;191;Gordan Cutmore;72.68;17/02/2023;;;Disponible
+93;Cave of Forgotten Dreams;Documentary;128;Royal Lindner;94.65;24/10/2023;;;Disponible
+94;Tunes of Glory;Drama;102;Keene Hawkeswood;95.1;18/09/2023;;;Disponible
+95;Sleepy Hollow;Fantasy|Horror|Mystery|Romance;125;Sybyl Brownsett;43.86;17/10/2023;;;Disponible
+96;Place Called Chiapas, A;Documentary;195;Terrill Elkington;71.65;14/12/2022;;;Disponible
+97;I Want You;Crime|Drama|Romance;176;Eldon Copson;29.81;06/03/2023;;;Disponible
+98;Virtual JFK: Vietnam If Kennedy Had Lived;Documentary;100;Harcourt Keirle;21.71;14/09/2023;;;Disponible
+99;Strange Invaders;Drama|Romance|Sci-Fi;129;Vivia Grebner;121.21;24/04/2023;;;Disponible
+100;Ninja Scroll (Jûbei ninpûchô);Action|Adventure|Animation|Fantasy;202;Rance Clink;77.8;03/08/2023;;;Disponible
+101;Dangerous Liaisons;Drama|Romance;164;Marris Caton;128.71;28/06/2023;;;Disponible
+102;Front Line, The;Crime|Drama|Thriller|War;139;Nikola McKernon;140.3;20/05/2023;;;Disponible
+103;Old Gringo;Drama;202;Deeanne MacBarron;138.47;24/11/2022;;;Disponible
+104;Under Ten Flags;Drama|War;156;Rosita Sheringham;112.68;15/09/2023;;;Disponible
+105;If I Were You (Se Eu Fosse Você);Comedy;234;Bobbe Mullaly;149.71;17/09/2023;;;Disponible
+106;Lovelace;Drama;206;Patrice Judge;128.75;04/12/2022;;;Disponible
+107;Enemies Closer;Action|Thriller;216;Margeaux Dunphy;85.62;03/10/2023;;;Disponible
+108;Buck;Documentary;183;Poppy Gosenell;46.59;21/07/2023;;;Disponible
+109;How to Train Your Dragon;Adventure|Animation|Children|Fantasy|IMAX;126;Dorry Duchatel;106.73;28/02/2023;;;Disponible
+110;Crooks in Clover (a.k.a. Monsieur Gangster) (Les tontons flingueurs);Action|Comedy|Crime;146;Araldo Grime;123.23;06/07/2023;;;Disponible
+111;Randy Rides Alone;Western;230;Elliot Poolton;110.6;22/05/2023;;;Disponible
+112;Gunman's Walk ;Western;112;Georgianne Ralton;101.5;03/07/2023;;;Disponible
+113;Sweepers;Action|Adventure|Drama;158;Artemus Garken;21.7;13/02/2023;;;Disponible
+114;Ponterosa;Comedy;229;Diane-marie Tuft;56.51;01/02/2023;;;Disponible
+115;Mother (Madeo);Crime|Drama|Mystery|Thriller;137;Gavra Urlin;76.96;27/12/2022;;;Disponible
+116;Fun is Beautiful;Comedy;123;Drona Saunder;108.16;30/11/2022;;;Disponible
+117;Dinner at Eight;Comedy|Drama|Romance;207;Merle Devenny;75.46;03/03/2023;;;Disponible
+118;Border Feud;Action|Comedy|Western;107;Dulcie Kruschev;65.86;30/07/2023;;;Disponible
+119;Black Watch, The;Adventure|Drama;212;Dunn Hyrons;109.04;11/12/2022;;;Disponible
+120;Aquí llega Condemor, el pecador de la pradera;Comedy|Western;206;Matteo Piddocke;35.77;26/07/2023;;;Disponible
+121;Witnesses, The (Les témoins);Drama;115;Angy Jarlmann;139.99;22/01/2023;;;Disponible
+122;Chapman Report, The;Comedy|Drama|Romance;91;Rozele Choules;80.82;19/06/2023;;;Disponible
+123;Johnny Be Good;Comedy;188;Alia Kuhl;20.22;08/08/2023;;;Disponible
+124;Mad Dog Coll;Crime|Drama;181;Jonell Kewley;124.18;05/10/2023;;;Disponible
+125;Hilary and Jackie;Drama;100;Shannah Padwick;135.67;19/07/2023;;;Disponible
+126;Christmas Story, A;Children|Comedy;225;Berty Tomankowski;101.54;27/11/2022;;;Disponible
+127;Hypothesis of the Stolen Painting, The (L'hypothèse du tableau volé);Drama|Mystery;149;Michel Kinnier;138.09;23/10/2023;;;Disponible
+128;Happy New Year;Action|Comedy|Crime|Drama|Musical|Romance;184;Virgie Essam;79.69;04/11/2022;;;Disponible
+129;Species II;Horror|Sci-Fi;233;Cassandry Kilminster;64.53;20/04/2023;;;Disponible
+130;Cat o' Nine Tails, The (Gatto a nove code, Il);Mystery|Thriller;154;Jacquenetta Griswood;38.0;14/10/2023;;;Disponible
+131;Adventures of Huck Finn, The;Adventure|Children|Comedy|Drama;217;Lanna Spier;59.47;03/10/2023;;;Disponible
+132;Fairy, The (La fée) ;Comedy|Drama;161;Stephani Coade;41.69;17/09/2023;;;Disponible
+133;Last Stop for Paul;Comedy;159;Bel Adaway;29.29;24/11/2022;;;Disponible
+134;Doctor Zhivago;Drama|Romance|War;206;Melissa Beahan;63.67;14/03/2023;;;Disponible
+135;The Wind in the Willows;Adventure|Animation|Children|Comedy;161;Rutger Avrashin;41.85;10/12/2022;;;Disponible
+136;Schooled: The Price of College Sports ;Documentary;163;Christa Walcher;13.73;23/02/2023;;;Disponible
+137;Idiots and Angels;Animation|Drama|Fantasy;120;Jordana McGarry;32.23;22/04/2023;;;Disponible
+138;Damned the Day I Met You;Comedy;234;Lanette Frid;37.82;31/05/2023;;;Disponible
+139;Red Dust;Drama;206;Caressa Oselton;29.27;31/07/2023;;;Disponible
+140;Canon;Animation;130;Ara Featherstonhalgh;101.95;18/12/2022;;;Disponible
+141;Furry Vengeance;Children|Comedy;180;Lulita Ledgister;122.25;25/03/2023;;;Disponible
+142;Deep Blue;Documentary;215;Alister Kilbane;96.92;29/04/2023;;;Disponible
+143;What Time Is It There? (Ni neibian jidian);Drama;178;Harman Degli Antoni;143.5;07/02/2023;;;Disponible
+144;Annie;Children|Musical;223;Obediah Cutriss;147.01;19/07/2023;;;Disponible
+145;Two Bits;Drama;140;Andros Bruyet;148.88;21/10/2023;;;Disponible
+146;Echoes of the Rainbow (Sui yuet san tau);Comedy|Drama|Romance;189;Clyde Wills;119.69;05/03/2023;;;Disponible
+147;Dance of the Dead;Adventure|Comedy|Horror;176;Ilse Cheese;44.62;12/07/2023;;;Disponible
+148;Straw Dogs;Drama|Thriller;227;Meredithe Cayser;42.32;20/12/2022;;;Disponible
+149;Liar, The (Valehtelija);Comedy|Drama;102;Emelia Lere;42.42;16/04/2023;;;Disponible
+150;Perfume;Comedy|Drama;114;Glynnis Pauli;73.94;23/12/2022;;;Disponible
+151;I, Cesar (Moi César, 10 ans 1/2, 1m39);Children|Comedy;144;Jacques Marusyak;88.19;27/07/2023;;;Disponible
+152;Close My Eyes;Drama|Romance;202;Ethelyn Mephan;133.14;20/04/2023;;;Disponible
+153;White on Rice;Comedy;232;Bettye Faires;127.73;12/04/2023;;;Disponible
+154;Schtonk!;Comedy;237;Christal Mardell;78.46;31/01/2023;;;Disponible
+155;Pocahontas;Animation|Children|Drama|Musical|Romance;232;Tracey Sheavills;36.85;19/12/2022;;;Disponible
+156;Here be Dragons;Documentary;127;Northrup Hubner;55.2;10/09/2023;;;Disponible
+157;Goodbye, Columbus;Comedy|Drama|Romance;134;Guenevere Greader;115.99;06/05/2023;;;Disponible
+158;Two Can Play That Game;Comedy|Drama;200;Gerik Cansdell;131.77;03/04/2023;;;Disponible
+159;The Mountain of the Cannibal God;Adventure|Horror;181;Marthe Lavis;66.45;03/04/2023;;;Disponible
+160;We All Loved Each Other So Much (C'eravamo tanto amati);Comedy|Drama;239;Shena Cluff;124.18;15/11/2022;;;Disponible
+161;Certain Kind Of Death, A;Documentary;144;Hubey Divver;54.08;20/06/2023;;;Disponible
+162;Dragon Inn (Sun lung moon hak chan);Action;93;Kippy Doe;39.48;27/06/2023;;;Disponible
+163;Thesis on a Homicide;Crime|Mystery|Thriller;183;Taffy Lamblot;77.43;07/01/2023;;;Disponible
+164;NATO's Secret Armies (Gladio: L'esercito segreto della Nato);Documentary;115;Alessandro Pyburn;75.06;18/08/2023;;;Disponible
+165;Little Richard;Drama;115;Dewey Spadoni;48.84;04/04/2023;;;Disponible
+166;Tale of Ham and Passion, A (Jamón, Jamón);Comedy|Drama|Romance;202;Doug Finlan;99.44;04/04/2023;;;Disponible
+167;Jim Gaffigan: Mr. Universe;Comedy;199;Ardys Clemmey;70.88;29/10/2023;;;Disponible
+168;Besieged (a.k.a. L' Assedio);Drama;192;Courtnay McReedy;140.83;26/09/2023;;;Disponible
+169;A Short History of Decay;Comedy;221;Isak Maude;22.54;28/03/2023;;;Disponible
+170;The Legend of Sarila;Adventure|Animation|Children;193;Lusa Scola;145.02;29/06/2023;;;Disponible
+171;Millionaire for Christy, A (Golden Goose) (No Room for the Groom);Comedy|Romance;159;Ardyce Nucciotti;94.35;09/11/2022;;;Disponible
+172;Floundering;Comedy;194;Letisha Magister;63.4;24/02/2023;;;Disponible
+173;Possession of Joel Delaney, The;Drama|Horror|Thriller;111;Bobina Chaucer;113.27;12/05/2023;;;Disponible
+174;Prozac Nation;Drama;165;Irita Dracey;17.7;26/03/2023;;;Disponible
+175;Curse of the Demon (Night of the Demon);Fantasy|Horror|Mystery;214;Jase Cometson;85.2;16/11/2022;;;Disponible
+176;Lemon Tree;Drama;112;Berkley Diggons;67.42;11/09/2023;;;Disponible
+177;Sherlock Jr.;Comedy|Fantasy|Romance;227;Wendy McLay;42.48;29/10/2023;;;Disponible
+178;Angel Heart;Film-Noir|Horror|Mystery|Thriller;208;Twila Fillery;110.03;26/08/2023;;;Disponible
+179;Down Periscope;Comedy;180;Arturo Bly;57.45;28/04/2023;;;Disponible
+180;Kings of the Road (Im Lauf der Zeit);Drama;140;Jdavie Kiossel;81.84;10/08/2023;;;Disponible
+181;Don't Look Now;Drama|Horror|Thriller;95;Amalia Masselin;86.65;09/04/2023;;;Disponible
+182;Limit (Limite);Drama;175;Myrtice Shovelton;113.94;15/11/2022;;;Disponible
+183;Paradise, Hawaiian Style;Comedy|Musical;122;My Jeffray;69.17;06/05/2023;;;Disponible
+184;Mondovino;Documentary;218;Adair Bayless;50.78;16/05/2023;;;Disponible
+185;Survival Quest;Adventure|Thriller;173;Willard Shone;27.79;08/03/2023;;;Disponible
+186;Japon (a.k.a. Japan) (Japón);Drama;230;Nanine Shrubb;88.01;02/07/2023;;;Disponible
+187;Human Touch;Drama;215;Gearard Stienton;148.33;25/11/2022;;;Disponible
+188;Girl on the Train, The;Thriller;105;Robbin Kaszper;76.9;11/01/2023;;;Disponible
+189;Flight of the Navigator;Adventure|Children|Sci-Fi;200;Elladine Buckenham;51.08;11/01/2023;;;Disponible
+190;Monkey Trouble;Children|Comedy;229;Dolorita Calcutt;124.0;20/02/2023;;;Disponible
+191;Charlie Chan at the Opera;Comedy|Musical|Mystery|Thriller;191;Mikkel Charlton;88.24;18/09/2023;;;Disponible
+192;Rockers;Comedy|Drama|Musical;148;Harlan Pelling;33.88;07/11/2022;;;Disponible
+193;Passing Strange;Documentary|Musical;110;Marc Bentke;12.05;19/02/2023;;;Disponible
+194;Persona;Drama;170;Violet Poynor;37.03;09/01/2023;;;Disponible
+195;Beijing Bicycle (Shiqi sui de dan che);Drama;215;Geordie Chaney;51.53;18/01/2023;;;Disponible
+196;Crouching Tiger, Hidden Dragon (Wo hu cang long);Action|Drama|Romance;207;Lazaro Renfree;113.35;25/07/2023;;;Disponible
+197;Talking Picture, A (Um Filme Falado);Comedy|Drama|War;121;Clay Kelberman;101.89;08/02/2023;;;Disponible
+198;Ayn Rand: A Sense of Life;Documentary;192;Julee Katz;42.27;13/02/2023;;;Disponible
+199;Star, The;Drama;92;Galina Dronsfield;106.62;06/09/2023;;;Disponible
+200;Mighty Joe Young;Adventure|Children|Drama;116;Nickolas Werrit;102.84;16/10/2023;;;Disponible
+201;Coming Apart;Drama;154;Art Lafaye;93.52;27/11/2022;;;Disponible
+202;Gruffalo, The;Adventure|Animation|Children|Comedy|Drama;219;Sallee Olander;52.99;06/08/2023;;;Disponible
+203;Loser Takes All, The (O hamenos ta pairnei ola);Action|Adventure|Drama;183;Fania Benzi;125.48;31/08/2023;;;Disponible
+204;Souls for Sale;Comedy|Drama|Romance;126;Giles Byer;62.6;19/06/2023;;;Disponible
+205;Three Steps Above Heaven (Tres metros sobre el cielo);Drama|Romance;110;Bing Dowey;88.39;08/12/2022;;;Disponible
+206;Sybil;Drama;152;Lela Frank;128.51;12/03/2023;;;Disponible
+207;Cosmonaut, The;Drama|Sci-Fi;191;Thelma Farherty;16.26;04/06/2023;;;Disponible
+208;Bullet for a Badman (Renegade Posse);Western;164;Lark Jochens;23.69;27/11/2022;;;Disponible
+209;Run of the Arrow;Western;235;Siward Speenden;72.79;21/10/2023;;;Disponible
+210;Coneheads;Comedy|Sci-Fi;208;Meggi Olden;82.77;19/10/2023;;;Disponible
+211;12 Dogs of Christmas, The;Children;110;Eva Vanyashkin;140.92;06/10/2023;;;Disponible
+212;Robot Monster;Horror|Sci-Fi;213;Sargent Duffitt;25.41;26/07/2023;;;Disponible
+213;Revolution #9;Thriller;98;Janey Snoxall;79.39;28/12/2022;;;Disponible
+214;Rosso;Crime|Drama;240;Gaile Aizic;55.39;13/05/2023;;;Disponible
+215;Guys and Dolls;Comedy|Musical|Romance;155;Quintus Herrema;48.06;07/08/2023;;;Disponible
+216;Broken Trail;Action|Adventure|Crime|Drama|Western;114;Duncan Cereceres;14.16;03/11/2022;;;Disponible
+217;Restless Souls (Bag det stille ydre);Drama|Horror|Mystery;126;Johnnie Havock;86.0;24/08/2023;;;Disponible
+218;Letter, The;Drama;157;Estrellita Whitford;33.27;29/06/2023;;;Disponible
+219;Craig's Wife;Drama;107;Audrey Mitchenson;142.02;17/07/2023;;;Disponible
+220;Johnny Got His Gun;Drama|War;146;Georas Wilkenson;77.23;25/09/2023;;;Disponible
+221;Frankie and Johnny;Comedy;180;Joni Cluley;37.55;15/02/2023;;;Disponible
+222;On Our Merry Way;Comedy|Drama;186;Adelina Aldins;99.43;10/09/2023;;;Disponible
+223;Lost in Beijing (Ping guo);Drama;139;Anne-marie Steele;10.39;19/09/2023;;;Disponible
+224;I Am Legend;Action|Horror|Sci-Fi|Thriller|IMAX;204;Claudine Godthaab;18.98;23/11/2022;;;Disponible
+225;Fullmetal Alchemist: The Sacred Star of Milos;Action|Adventure|Animation;139;Jacquenette Southcott;138.23;29/12/2022;;;Disponible
+226;Resurrected, The;Horror;181;Loni Woodford;127.55;29/06/2023;;;Disponible
+227;Lady Death;Action|Animation|Horror;206;Cherice Roocroft;100.76;21/10/2023;;;Disponible
+228;Meet Me in St. Louis;Musical;182;Allsun Arboine;123.7;24/06/2023;;;Disponible
+229;Bakery Girl of Monceau, The (La boulangère de Monceau);Romance;240;Marillin Renforth;107.06;19/08/2023;;;Disponible
+230;7 Khoon Maaf;Drama|Mystery|Thriller;120;Deanne Hasson;115.94;02/06/2023;;;Disponible
+231;Putney Swope;Comedy;128;Berta Corke;143.69;14/11/2022;;;Disponible
+232;Trance;Crime|Thriller;156;Waneta Esslemont;136.42;16/01/2023;;;Disponible
+233;The Amazing Spider-Man 2;Action|Sci-Fi|IMAX;123;Audie Jesper;93.37;16/12/2022;;;Disponible
+234;Offside;Comedy|Drama;93;Richard Grigoryov;133.04;05/01/2023;;;Disponible
+235;Emmett's Mark;Crime|Drama|Thriller;100;Erinn Wanek;93.1;16/03/2023;;;Disponible
+236;Front Page Woman;Comedy|Romance;112;Josie Liddell;33.17;26/02/2023;;;Disponible
+237;Barabbas;Adventure|Drama;210;Jacques Donaher;16.27;25/07/2023;;;Disponible
+238;"""Great Performances"" Cats";Musical;203;Norene Beddis;57.58;27/01/2023;;;Disponible
+239;Happily N'Ever After;Animation|Children|Comedy;97;Karoline Rudland;90.2;01/10/2023;;;Disponible
+240;Effie Gray;Drama;122;Christin Tuminini;63.05;19/02/2023;;;Disponible
+241;Wedding Trough (Vase de noces);Horror|Romance;143;Kalina Sanchiz;104.89;11/02/2023;;;Disponible
+242;Hitler: The Rise of Evil;Drama;197;Clio Strathern;91.86;04/07/2023;;;Disponible
+243;Scarface;Crime|Drama;90;Erik McLachlan;142.76;31/12/2022;;;Disponible
+244;Run Sister Run!;Drama;233;Cirilo Heisham;141.29;23/05/2023;;;Disponible
+245;Half Life of Timofey Berezin, The (PU-239);Drama;223;Vinnie Girardoni;38.55;01/12/2022;;;Disponible
+246;Werner - Volles Rooäää;Animation|Comedy;237;Tania Footer;121.71;02/07/2023;;;Disponible
+247;Harishchandrachi Factory;Comedy|Drama;128;Lucienne Wilce;95.79;03/06/2023;;;Disponible
+248;I Always Wanted to Be a Gangster (J'ai toujours rêvé d'être un gangster);Comedy|Crime|Drama;164;Daffy Charleston;118.17;23/10/2023;;;Disponible
+249;Finisterrae;(no genres listed);231;Andrew Whittenbury;38.49;20/05/2023;;;Disponible
+250;Memphis Belle: A Story of a Flying Fortress, The;Documentary|War;128;Kathe Greenroyd;23.3;20/06/2023;;;Disponible
+251;Carmen Jones;Drama|Musical;186;Suzie Kynge;108.33;04/10/2023;;;Disponible
+252;Mad Miss Manton, The;Comedy|Crime|Mystery|Romance;99;Heath Faithfull;146.2;25/08/2023;;;Disponible
+253;Alvin and the Chipmunks: The Squeakquel;Animation|Children|Comedy|Musical;142;Barrie Ansill;12.73;21/05/2023;;;Disponible
+254;G.I. Jane;Action|Drama;144;Kellia Skough;15.48;22/02/2023;;;Disponible
+255;Selma;Drama;178;Myrta Penfold;116.76;16/11/2022;;;Disponible
+256;Talk Radio;Drama;97;Bearnard Casterou;104.77;10/03/2023;;;Disponible
+257;Wild Orchid;Drama|Romance;153;Peyter Dury;94.46;30/12/2022;;;Disponible
+258;It Happens Every Spring;Comedy|Sci-Fi;219;Alexandre McAulay;73.08;05/04/2023;;;Disponible
+259;Housewarming (Travaux, on sait quand ça commence...);Comedy;206;Gerrilee Bromell;110.95;24/05/2023;;;Disponible
+260;Speedway Junky;Drama;235;Lorelle Ballam;143.1;18/06/2023;;;Disponible
+261;Midnight (Primeiro Dia, O);Drama;170;Birch Vernham;48.67;07/08/2023;;;Disponible
+262;Pootie Tang;Comedy;168;Ralina Dmiterko;15.86;06/08/2023;;;Disponible
+263;Camp Nowhere;Adventure|Children|Comedy;178;Denice Dunstone;24.17;22/08/2023;;;Disponible
+264;Hot Shots! Part Deux;Action|Comedy|War;239;Luciana Llorente;41.2;11/06/2023;;;Disponible
+265;S.F.W.;Drama;95;Jan Ellit;40.07;25/09/2023;;;Disponible
+266;Man Who Loved Women, The;Comedy;161;Amaleta Duffrie;61.83;25/10/2023;;;Disponible
+267;Warriors of Heaven and Earth (Tian di ying xiong);Action|Adventure|Drama;175;Lyndsie MacLice;72.46;18/05/2023;;;Disponible
+268;Shadow Riders, The;Romance|Western;159;Martelle Stigers;17.89;21/09/2023;;;Disponible
+269;Perfect Circle, The (Savrseni krug);Drama|War;101;Robin Nevins;26.64;18/10/2023;;;Disponible
+270;Trouble the Water;Documentary;212;Gilemette Prevost;78.08;20/12/2022;;;Disponible
+271;Big Pun: The Legacy;Documentary;117;Moritz Norrey;69.03;09/02/2023;;;Disponible
+272;Berserk: The Golden Age Arc 2 - The Battle for Doldrey;Action|Animation|Fantasy;96;Artemus O'Lenane;68.49;15/07/2023;;;Disponible
+273;Village People Radio Show (Apa khabar orang kampung);Documentary;215;Rosetta Busfield;134.44;13/12/2022;;;Disponible
+274;Pageant;Documentary;90;Noll Hellwich;117.81;10/04/2023;;;Disponible
+275;Next Karate Kid, The;Action|Children|Romance;213;Fletch Fardoe;105.8;18/11/2022;;;Disponible
+276;4 Months, 3 Weeks and 2 Days (4 luni, 3 saptamâni si 2 zile);Drama;228;Cherilynn Jacobowicz;136.66;15/03/2023;;;Disponible
+277;Why Does Herr R. Run Amok? (Warum läuft Herr R. Amok?);Drama;223;Marius Pirelli;81.05;17/01/2023;;;Disponible
+278;Jekyll & Hyde;Horror;141;Olia Bramo;127.89;29/05/2023;;;Disponible
+279;Emo Philips Live;Comedy;115;Kerrill Bamell;102.33;28/03/2023;;;Disponible
+280;Killing Auntie (Zabicie ciotki);Drama|Thriller;148;Cathleen Dallon;70.75;12/01/2023;;;Disponible
+281;Pineapple Express;Action|Comedy|Crime;133;Kelci Negri;100.68;03/07/2023;;;Disponible
+282;Night at the Museum: Battle of the Smithsonian;Action|Comedy|IMAX;197;Jenn Dore;20.73;08/12/2022;;;Disponible
+283;Survival of the Dead;Horror;233;Thibaut Dennick;40.58;06/06/2023;;;Disponible
+284;Men of Respect;Crime|Drama|Thriller;186;Lorilyn Reubel;120.31;13/12/2022;;;Disponible
+285;Who Framed Roger Rabbit?;Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery;217;Jeanine Gillespie;50.98;30/10/2023;;;Disponible
+286;Faust;Animation|Comedy|Thriller;238;Winnie Watt;23.87;12/12/2022;;;Disponible
+287;Blue Streak;Comedy;152;Valenka Cattenach;87.95;02/01/2023;;;Disponible
+288;Big Hangover, The;Comedy;160;Melly O'Grady;78.24;07/03/2023;;;Disponible
+289;Glass Agency, The (Ajans-E Shisheh-I);Crime|Drama|Film-Noir|Thriller;116;Genovera Payle;72.42;18/06/2023;;;Disponible
+290;Men of Means;Action|Drama;174;Annamaria Riddiough;132.2;12/03/2023;;;Disponible
+291;Save the Green Planet! (Jigureul jikyeora!);Comedy|Drama|Horror|Sci-Fi|Thriller;128;Care Thurborn;105.75;04/07/2023;;;Disponible
+292;Dead Tired (Grosse Fatigue);Comedy;143;Eddie Balsdon;107.71;15/06/2023;;;Disponible
+293;Lapland Odyssey (Napapiirin sankarit);Comedy|Drama|Romance;161;Ruttger Chastang;27.07;25/09/2023;;;Disponible
+294;Oasis;Drama|Romance;105;Kyla Ottewell;44.97;29/04/2023;;;Disponible
+295;Colt 38 Special Squad;Action|Crime|Drama|Thriller;228;Aristotle Darrington;139.49;13/06/2023;;;Disponible
+296;Poltergeist II: The Other Side;Horror|Thriller;163;Mathilde Damper;11.75;22/04/2023;;;Disponible
+297;Shadowzone;Horror|Sci-Fi;205;Nick Foot;98.53;25/03/2023;;;Disponible
+298;Sinbad (Szindbád);Drama;186;Barbra Tuff;32.51;23/04/2023;;;Disponible
+299;Constantine's Sword;Documentary;139;Haskell MacCulloch;49.19;01/03/2023;;;Disponible
+300;Wetherby;Drama;234;Gayle Stockill;144.31;17/09/2023;;;Disponible
+301;Royal Tenenbaums, The;Comedy|Drama;119;Hurley Sandercock;27.11;27/05/2023;;;Disponible
+302;Shooting Gallery;Crime|Drama|Thriller;114;Pete Hacaud;100.67;18/01/2023;;;Disponible
+303;Magic of Méliès, The (magie Méliès, La);Documentary;164;Otha Brisland;103.01;20/12/2022;;;Disponible
+304;Trekkies 2;Documentary|Sci-Fi;143;Cordelia Lawey;54.86;09/07/2023;;;Disponible
+305;Last Days, The;Documentary;91;Bryon Pearton;20.55;12/07/2023;;;Disponible
+306;And the Pursuit of Happiness (La poursuite du bonheur);Documentary;125;Hieronymus Went;20.44;28/05/2023;;;Disponible
+307;Camp Hell;Thriller;102;Davita Robertshaw;64.86;28/05/2023;;;Disponible
+308;Best Intentions, The (Den goda viljan);Drama|Romance;197;Brander Brandts;59.7;12/05/2023;;;Disponible
+309;Norte, El;Adventure|Drama;97;Sylas Wilcockes;131.71;12/05/2023;;;Disponible
+310;Venus & Fleur;(no genres listed);187;Drew Heasman;25.08;09/04/2023;;;Disponible
+311;Polar Express, The;Adventure|Animation|Children|Fantasy|IMAX;238;Nerta Goodfellow;121.67;21/07/2023;;;Disponible
+312;Full Moon High;Comedy|Fantasy|Horror;165;Emalia Olland;79.9;31/12/2022;;;Disponible
+313;Koko, a Talking Gorilla;Documentary;169;Julee Locard;135.69;04/01/2023;;;Disponible
+314;Beyond The Hills;Drama;148;Ambur De Bischop;74.59;23/09/2023;;;Disponible
+315;National Lampoon's Vacation;Comedy;227;Ara Gilpin;37.46;09/11/2022;;;Disponible
+316;Under the Skin;Drama;95;Roger Quartley;21.58;21/04/2023;;;Disponible
+317;Hindenburg, The;Drama|Thriller;149;Lillis Benedict;146.65;24/08/2023;;;Disponible
+318;Othello;Drama;141;Gracie Antoszczyk;104.12;05/10/2023;;;Disponible
+319;Let It Be;Documentary;137;Dorene Nunnery;65.82;18/07/2023;;;Disponible
+320;Bedtime Story;Comedy;211;Dorine Alderton;106.58;14/04/2023;;;Disponible
+321;Knute Rockne All American;Drama;234;Vanessa Clapham;45.54;21/06/2023;;;Disponible
+322;Chorus Line, A;Comedy|Drama|Musical;155;Mychal Capp;102.31;10/08/2023;;;Disponible
+323;New Best Friend;Drama|Thriller;217;Dayna Fost;143.36;18/01/2023;;;Disponible
+324;Korso;Drama;130;Chrystal Secret;88.17;05/05/2023;;;Disponible
+325;Far From Home: The Adventures of Yellow Dog;Adventure|Children;100;Kermy Stiant;38.88;07/08/2023;;;Disponible
+326;The Living Magoroku;(no genres listed);142;Domini Muttitt;110.48;14/01/2023;;;Disponible
+327;Michael Collins;Drama;147;Evin Casolla;113.11;02/02/2023;;;Disponible
+328;Moment After, The;Drama|Sci-Fi|Thriller;214;Kennith Gilstoun;82.74;16/09/2023;;;Disponible
+329;Lady in the Water;Drama|Fantasy|Mystery;229;Lena FitzGilbert;67.42;17/11/2022;;;Disponible
+330;Ennui, L';Drama|Romance;231;Felipe Moff;129.15;02/09/2023;;;Disponible
+331;Haunting in Connecticut 2: Ghosts of Georgia, The;Drama|Horror|Thriller;136;Munmro Worsnip;50.05;06/06/2023;;;Disponible
+332;So Long Letty;Comedy|Musical;156;Ellen Mandrake;48.83;19/05/2023;;;Disponible
+333;Seventh Brother, The (A hetedik testvér);Animation|Children;132;Milo Vasyutkin;102.53;17/05/2023;;;Disponible
+334;Udaan;Drama;200;Oliver Rawsthorne;119.85;06/02/2023;;;Disponible
+335;Someone's Watching Me!;Horror|Mystery|Thriller;126;Allsun Wickliffe;30.81;03/06/2023;;;Disponible
+336;Mystic Masseur, The;Drama;213;Mattie Mallock;94.94;05/03/2023;;;Disponible
+337;Shivers (They Came from Within);Drama|Horror|Sci-Fi;126;Shirline Connors;10.99;27/11/2022;;;Disponible
+338;Porgy and Bess;Drama|Musical|Romance;99;Rebecka Elstob;14.8;08/09/2023;;;Disponible
+339;Foolish Wives;Drama;235;Elora Adenot;126.55;26/08/2023;;;Disponible
+340;Doc Hollywood;Comedy|Romance;174;Gardiner Littledike;16.03;25/11/2022;;;Disponible
+341;Curse of Frankenstein, The;Horror;213;Dani Jacob;36.14;01/11/2023;;;Disponible
+342;John Wick;Action|Thriller;145;Camella Celloni;145.8;27/09/2023;;;Disponible
+343;Thunder Bay;Adventure;128;Allyce Sille;49.66;27/06/2023;;;Disponible
+344;Cheech & Chong: Still Smokin';Comedy;227;Mateo Yurocjkin;145.35;08/10/2023;;;Disponible
+345;L'enfance nue (Naked Childhood);Drama;119;Ford Phythian;149.2;03/08/2023;;;Disponible
+346;Paris Was a Woman;Documentary;200;Cary Lewnden;37.53;01/05/2023;;;Disponible
+347;Cat's Eye;Horror;196;Cy Campes;138.38;15/11/2022;;;Disponible
+348;Stand by Me;Adventure|Drama;157;Maisey Ewings;86.45;08/05/2023;;;Disponible
+349;Krakatoa: The Last Days;Documentary|Drama;176;Claire Okey;65.43;22/12/2022;;;Disponible
+350;Lady Killer;Drama|Romance|War;164;Lianna Partkya;31.07;11/10/2023;;;Disponible
+351;Special Bulletin;Drama;155;Mirilla Binny;70.0;19/01/2023;;;Disponible
+352;That's Life;Comedy;226;Fidelia Henrichs;132.74;19/08/2023;;;Disponible
+353;Any Given Sunday;Drama;117;Freedman Gledhill;39.41;30/09/2023;;;Disponible
+354;13 Ghosts;Horror;199;Sascha Harlick;140.22;29/03/2023;;;Disponible
+355;Miser, The (L'avare);Comedy;125;Dorine Sollom;103.92;26/10/2023;;;Disponible
+356;Window, The;Drama|Film-Noir|Thriller;164;Carolina Craw;46.47;17/01/2023;;;Disponible
+357;Mr. Nobody;Drama|Fantasy|Romance|Sci-Fi;145;Vittoria Hambatch;110.25;24/06/2023;;;Disponible
+358;Lean on Me;Drama;91;Rozanne Leglise;39.34;09/05/2023;;;Disponible
+359;Fair Game;Action;176;Dew Weyman;62.95;09/04/2023;;;Disponible
+360;Species II;Horror|Sci-Fi;215;Danie Aberkirder;72.98;09/04/2023;;;Disponible
+361;Ready to Wear (Pret-A-Porter);Comedy;110;Lusa Heartfield;95.52;06/05/2023;;;Disponible
+362;Exit Through the Gift Shop;Comedy|Documentary;208;Elfrieda Filippone;40.86;22/06/2023;;;Disponible
+363;What the Day Owes the Night;Drama|Romance;194;Gisele Oldroyd;12.31;20/02/2023;;;Disponible
+364;Peaceful Warrior;Drama;124;Francesco Casham;102.84;17/12/2022;;;Disponible
+365;Tyler Perry's Madea's Witness Protection;Comedy;223;Christy Snel;138.41;14/04/2023;;;Disponible
+366;Road Trip;Comedy;153;Eustace Prop;47.78;23/04/2023;;;Disponible
+367;Sea of Grass, The;Drama|Western;232;Arvie Mordue;132.92;19/11/2022;;;Disponible
+368;Eden Lake;Horror|Thriller;146;Udall Beaves;56.44;15/02/2023;;;Disponible
+369;Shout, The;Drama|Horror;121;Gilbertine Denidge;60.86;15/03/2023;;;Disponible
+370;We and the I, The;Drama;218;Billie Rother;37.03;14/10/2023;;;Disponible
+371;God Bless Ozzy Osbourne;Documentary;112;Gretel Wrennall;12.31;04/01/2023;;;Disponible
+372;Go Now;Drama;135;Wenona Caveau;52.91;27/05/2023;;;Disponible
+373;Sons of Katie Elder;Western;190;Nels Robeson;72.22;28/11/2022;;;Disponible
+374;Ballou;Documentary|Musical;153;Jule Lewsley;147.61;28/03/2023;;;Disponible
+375;Dark Habits (Entre tinieblas);Comedy|Drama;229;Liane Fewings;133.03;16/06/2023;;;Disponible
+376;Monsterman (Monsterimies);Documentary|Drama;173;Cobb Sackey;36.72;22/01/2023;;;Disponible
+377;Viva Zapata!;Western;169;Katee Paulucci;104.6;10/12/2022;;;Disponible
+378;Venus Boyz;Documentary;227;Dollie Fermoy;131.06;19/06/2023;;;Disponible
+379;Alfie;Comedy|Drama|Romance;166;Ilise Ambrosio;76.57;18/10/2023;;;Disponible
+380;Hand, The;Drama|Horror;92;Arin Purcer;104.89;19/07/2023;;;Disponible
+381;Carne;Drama|Thriller;220;Ami Cregeen;82.61;13/10/2023;;;Disponible
+382;Paris;Documentary;221;Geri Ewins;133.51;13/03/2023;;;Disponible
+383;Cinderella III: A Twist in Time;Animation|Children|Fantasy|Romance;187;Berty Reichert;101.89;12/02/2023;;;Disponible
+384;Breathless (À bout de souffle);Crime|Drama|Romance;198;Forbes Heyns;146.55;17/11/2022;;;Disponible
+385;Wedding Night, The;Drama|Romance;234;Gerik Gotthard;145.39;01/01/2023;;;Disponible
+386;Love with the Proper Stranger;Comedy|Drama|Romance;168;Malory Manna;94.73;20/05/2023;;;Disponible
+387;Sex and the City;Comedy|Romance;144;Rhodie Stodhart;116.58;14/10/2023;;;Disponible
+388;Kenny;Comedy;109;Edi Empleton;18.73;16/01/2023;;;Disponible
+389;Man with One Red Shoe, The;Comedy|Thriller;195;Wallie Brett;70.62;21/10/2023;;;Disponible
+390;Ecstasy in Entropy;(no genres listed);223;Colas Cowen;116.38;04/06/2023;;;Disponible
+391;Tartuffe (Herr Tartüff);Drama;168;Lorelle Gleeton;97.18;29/07/2023;;;Disponible
+392;Acid House, The;Comedy|Drama;99;Jori Duplock;28.96;28/06/2023;;;Disponible
+393;Black Scorpion, The;Sci-Fi;98;Barth MacEvilly;101.6;18/09/2023;;;Disponible
+394;Rambling Rose;Drama;168;Karon Milby;49.81;07/08/2023;;;Disponible
+395;Nekromantik;Comedy|Horror;159;Corrie Warricker;91.69;09/06/2023;;;Disponible
+396;Place Vendôme;Crime|Drama;184;Madelaine Bernat;69.75;03/02/2023;;;Disponible
+397;Harvey Girls, The;Comedy|Musical|Western;137;Kendall M'Quhan;125.51;25/03/2023;;;Disponible
+398;Bullfighters, The;Comedy|Musical;223;Ky Murra;133.21;23/04/2023;;;Disponible
+399;Home;Documentary;207;Eula Gabbotts;53.88;10/01/2023;;;Disponible
+400;Nine to Five (a.k.a. 9 to 5);Comedy|Crime;99;Skip Bosnell;114.84;23/01/2023;;;Disponible
+401;Solomon Northup's Odyssey;(no genres listed);117;Bird McAuliffe;148.13;17/01/2023;;;Disponible
+402;Battle of Shaker Heights, The;Comedy|Drama|Romance;215;Odille Lindberg;94.91;28/09/2023;;;Disponible
+403;Edvard Munch;Drama;203;Aluino Burdis;86.57;13/11/2022;;;Disponible
+404;Howards of Virginia, The;Drama|War;221;Crosby McGougan;59.62;13/08/2023;;;Disponible
+405;Love's Enduring Promise;Drama|Romance;106;Cecile Stone;92.14;16/05/2023;;;Disponible
+406;When a Stranger Calls;Horror|Thriller;201;Ruy Tincknell;137.48;17/07/2023;;;Disponible
+407;Battlestar Galactica: The Plan;Action|Adventure|Drama|Sci-Fi;148;Blair Cardenas;113.67;10/01/2023;;;Disponible
+408;Direct Action;Action|Crime|Thriller;205;Lara Hellewell;37.06;04/09/2023;;;Disponible
+409;Lan Yu;Drama|Romance;130;Miof mela Culverhouse;129.23;28/11/2022;;;Disponible
+410;Children of Leningradsky, The;Documentary;127;Raven Mountney;100.46;26/06/2023;;;Disponible
+411;Roads to Koktebel (Koktebel);Drama|Romance;171;Corliss Knowler;62.4;29/03/2023;;;Disponible
+412;Safe;Thriller;228;Hewett Dorrell;81.41;30/04/2023;;;Disponible
+413;Ned Kelly;Drama;134;Zonnya Sheards;95.74;11/08/2023;;;Disponible
+414;Plastic Paradise: The Great Pacific Garbage Patch;Documentary;104;Janella Hanbury-Brown;135.8;27/10/2023;;;Disponible
+415;Christmas Carol, A (Scrooge);Drama|Fantasy;147;Jane Wedgwood;88.74;01/09/2023;;;Disponible
+416;Death and Cremation;Thriller;192;Del Le Fevre;90.5;21/10/2023;;;Disponible
+417;Simple Simon (I rymden finns inga känslor);Comedy|Drama;152;Vanda Brignall;120.26;30/03/2023;;;Disponible
+418;Affair of the Heart, An;Documentary;148;Ellie Pimlock;34.48;10/04/2023;;;Disponible
+419;Of Love and Shadows;Drama;199;Alica Craik;49.06;17/11/2022;;;Disponible
+420;Dr. Goldfoot and the Girl Bombs (Le spie vengono dal semifreddo);Comedy|Sci-Fi;207;Whitby Shorte;40.89;16/07/2023;;;Disponible
+421;Stomp the Yard;Drama|Musical;128;Brent Ingledow;32.01;20/08/2023;;;Disponible
+422;Courage of the Eagles, The (Les aiguilles rouges);Drama;141;Jenica Trubshawe;98.84;22/09/2023;;;Disponible
+423;Remote Control;Comedy|Drama;196;Adelina Simper;98.17;31/03/2023;;;Disponible
+424;Navy Seals;Action|Adventure|War;180;Tait Moggach;58.63;03/07/2023;;;Disponible
+425;Hong Kong Confidential (Amaya);Drama;222;Kienan Menel;98.41;27/08/2023;;;Disponible
+426;Standing in the Shadows of Motown;Documentary|Musical;127;Andrea Farrent;13.6;17/02/2023;;;Disponible
+427;Lost Reels of Pancho Villa, The (Los rollos perdidos de Pancho Villa);Documentary;238;Merna Fattori;114.4;25/04/2023;;;Disponible
+428;Our Little Girl;Comedy|Drama|Romance;189;Adolpho Nisard;127.94;08/02/2023;;;Disponible
+429;Man of Her Dreams (a.k.a. The Fiancé);Drama;139;Ileane Blanc;45.23;02/04/2023;;;Disponible
+430;Beverly Hillbillies, The;Comedy;240;Drusy Benbrick;139.84;06/11/2022;;;Disponible
+431;Inn of Evil (Inochi bô ni furô);Crime|Drama;220;Katherine Wigglesworth;104.57;16/09/2023;;;Disponible
+432;Black Rain;Action|Crime|Drama;200;Tedie Wheeler;146.93;04/10/2023;;;Disponible
+433;Sweeney, The;Action|Crime;141;Lewie Coburn;53.97;14/09/2023;;;Disponible
+434;BloodRayne;Action|Fantasy;129;Nannie Mapletoft;62.34;23/03/2023;;;Disponible
+435;Quiet American, The;Drama|Romance|Thriller|War;103;Andros Wichard;123.49;11/06/2023;;;Disponible
+436;Illusionist, The (L'illusionniste);Animation;156;Tandy Winram;116.8;04/09/2023;;;Disponible
+437;Gory Gory Hallelujah;Comedy|Fantasy|Horror;237;Kym Caplan;136.56;20/06/2023;;;Disponible
+438;Collection, The;Action|Horror|Thriller;140;Killian Coulthard;60.6;15/07/2023;;;Disponible
+439;Dinosaur;Adventure|Animation|Children;125;Elvyn McAughtrie;37.04;10/05/2023;;;Disponible
+440;Slumber Party '57;(no genres listed);211;Chuck Kleynermans;37.04;22/01/2023;;;Disponible
+441;Father Hood;Comedy;235;Edyth Danilchenko;143.67;15/09/2023;;;Disponible
+442;Not My Type;Comedy|Romance;159;Pattin Bachura;71.82;22/02/2023;;;Disponible
+443;Personal Velocity;Drama;154;Clemente Menezes;52.96;30/03/2023;;;Disponible
+444;They Call Me Mister Tibbs!;Crime|Drama|Mystery;126;Crystal Seiler;50.09;28/04/2023;;;Disponible
+445;Take the Money and Run;Comedy|Crime;93;Dita Ghidotti;95.86;18/07/2023;;;Disponible
+446;Crime Busters;Action|Adventure|Comedy|Crime;161;Skyler Voss;19.55;04/03/2023;;;Disponible
+447;Lady, The;Drama;132;Maximilian Pople;28.84;26/07/2023;;;Disponible
+448;M. Hulot’s Holiday (Mr. Hulot's Holiday) (Vacances de Monsieur Hulot, Les);Comedy;150;Yankee Gorusso;117.38;15/06/2023;;;Disponible
+449;Clifford's Really Big Movie;Animation|Children;112;Esmaria Antwis;139.62;08/12/2022;;;Disponible
+450;Jewel Robbery;Comedy|Crime|Romance;231;Ricki Olding;65.54;01/02/2023;;;Disponible
+451;Better Life, A;Drama;100;Beitris Brim;49.62;13/06/2023;;;Disponible
+452;WolfCop;Comedy|Horror;185;Artair Lowrey;53.83;12/11/2022;;;Disponible
+453;Gumshoe;Comedy|Crime|Drama|Mystery;151;Emmy Holbury;92.71;28/06/2023;;;Disponible
+454;Fortress;Action|Sci-Fi;232;Gaven Roust;137.43;29/01/2023;;;Disponible
+455;Homicide;Crime|Drama|Thriller;165;Tabatha Guiett;74.2;11/07/2023;;;Disponible
+456;Bridget Jones: The Edge of Reason;Comedy|Drama|Romance;202;Vaughan Orrill;119.54;24/03/2023;;;Disponible
+457;Sparrows Dance;Drama|Romance;114;Lizbeth Wyson;125.32;05/05/2023;;;Disponible
+458;Breaking and Entering;Comedy|Documentary;116;Cordelie Sire;83.34;23/04/2023;;;Disponible
+459;Portrait of Maria (María Candelaria (Xochimilco));Drama|Romance;148;Jocelyn Gribben;90.17;30/01/2023;;;Disponible
+460;Scatter My Ashes at Bergdorf's;Documentary;173;Harcourt Kevlin;88.58;11/07/2023;;;Disponible
+461;Justice League: Doom ;Action|Animation|Fantasy;169;Stefan Ballingal;84.42;04/01/2023;;;Disponible
+462;Sugar & Spice;Comedy;109;Conni Broggelli;76.58;30/05/2023;;;Disponible
+463;Private Affairs of Bel Ami, The;Drama;171;Jammal Fulk;104.05;27/03/2023;;;Disponible
+464;W.E.;Drama|Romance;196;Josee Mandrey;136.75;15/11/2022;;;Disponible
+465;Witness for the Prosecution;Drama|Mystery|Thriller;106;Germana Salandino;75.93;06/07/2023;;;Disponible
+466;The Mask You Live In;Documentary;123;Oran Pepin;121.32;04/05/2023;;;Disponible
+467;Wilderness;Horror|Thriller;162;Shawn Wyper;59.31;29/08/2023;;;Disponible
+468;Evangelion: 1.0 You Are (Not) Alone (Evangerion shin gekijôban: Jo);Action|Animation|Sci-Fi;164;Fitz Poynser;135.0;11/01/2023;;;Disponible
+469;Another Gay Movie;Comedy;225;Leandra Plessing;126.7;26/10/2023;;;Disponible
+470;Pandorum;Horror|Sci-Fi|Thriller;97;Corabella Wort;87.76;31/05/2023;;;Disponible
+471;Thesis on a Homicide;Crime|Mystery|Thriller;162;Linus Selbach;121.77;21/12/2022;;;Disponible
+472;Tao of Steve, The;Comedy;112;Thatch Osmond;27.99;16/06/2023;;;Disponible
+473;Terminal Velocity;Action|Mystery|Thriller;159;Bryn Thorby;148.22;25/01/2023;;;Disponible
+474;Ghost Son;Drama|Horror|Mystery|Thriller;225;Binnie Heak;129.2;02/12/2022;;;Disponible
+475;Nocturna Artificialia;Animation;144;Leslie Butt;131.7;14/08/2023;;;Disponible
+476;Intimacy;Drama;234;Berne Jakubovics;31.37;11/11/2022;;;Disponible
+477;Säg att du älskar mig;Drama;233;Dinah Budcock;56.6;19/10/2023;;;Disponible
+478;Alice in Murderland;Horror|Thriller;165;Shaina Halse;96.02;28/12/2022;;;Disponible
+479;Teen Witch;Comedy;150;Bogey Summerlie;72.65;19/05/2023;;;Disponible
+480;Moth, The (Cma);Drama;196;Amelina Matus;116.92;14/01/2023;;;Disponible
+481;Cat in the Hat, The;Animation|Children;215;Gillian Glencross;38.34;18/05/2023;;;Disponible
+482;Haunted House;(no genres listed);97;Joela Steere;33.19;08/06/2023;;;Disponible
+483;Why We Fight;Documentary;180;Jonah Broschek;20.81;20/05/2023;;;Disponible
+484;Salaam Cinema;Comedy|Documentary|Drama;182;Bertie Sanz;75.0;07/02/2023;;;Disponible
+485;Jimmy and Judy;Crime|Drama|Thriller;164;Sydney Scholl;35.42;27/12/2022;;;Disponible
+486;Spiders, Part 2: The Diamond Ship, The (Die Spinnen, 2. Teil - Das Brillantenschiff);Action|Adventure|Drama;141;Evelyn Ovington;40.97;16/11/2022;;;Disponible
+487;Spread;Drama|Romance;208;Genvieve Brotherheed;147.96;14/06/2023;;;Disponible
+488;Abbott and Costello in Hollywood;Comedy;121;Dody Pietesch;93.25;13/01/2023;;;Disponible
+489;Dirty Ho (Lan tou He);Action|Drama;223;Beau Percy;106.54;13/07/2023;;;Disponible
+490;8: The Mormon Proposition;Documentary;114;Beatrice Roberds;138.44;22/08/2023;;;Disponible
+491;Gamera vs. Gyaos (Daikaijû kûchûsen: Gamera tai Gyaosu);Action|Horror|Sci-Fi;238;Langsdon Bullier;135.27;02/05/2023;;;Disponible
+492;Let's Not Keep in Touch!;Comedy;230;Lauryn Denzilow;31.81;13/01/2023;;;Disponible
+493;Creator;Comedy|Drama|Romance;107;Lea Fernant;15.24;07/09/2023;;;Disponible
+494;Illusion Of Blood;Fantasy|Horror;105;Lolita Denidge;47.97;21/03/2023;;;Disponible
+495;We Can Be Heroes;(no genres listed);112;Filia Midner;31.49;15/03/2023;;;Disponible
+496;Messenger of Death;Thriller;203;Maris Le Barre;118.38;10/02/2023;;;Disponible
+497;Elektra Luxx;Comedy;113;Allin Brant;117.17;08/08/2023;;;Disponible
+498;Phyllis and Harold;Documentary;239;Terrijo Overal;21.25;12/01/2023;;;Disponible
+499;Gigantic (A Tale of Two Johns);Documentary;194;Georg Swannell;46.34;05/03/2023;;;Disponible
+500;Underworld;Action|Fantasy|Horror;209;Murdoch Skally;139.29;20/10/2023;;;Disponible
+501;Rainy Dog (Gokudô kuroshakai);Crime|Drama;105;Dannel Aucock;90.33;11/04/2023;;;Disponible
+502;Along Came Jones;Comedy|Romance|Western;143;Kendall Mussared;92.06;05/10/2023;;;Disponible
+503;Mean Creek;Drama|Thriller;156;Lukas Shalloo;17.1;22/02/2023;;;Disponible
+504;DEFCON: The Documentary;Documentary;125;Malina Wedlake;73.39;14/12/2022;;;Disponible
+505;Band's Visit, The (Bikur Ha-Tizmoret);Comedy|Drama;237;Laure Manhare;135.92;20/12/2022;;;Disponible
+506;Oh, Sun (Soleil O);Drama;120;Ariana Linnock;59.75;15/07/2023;;;Disponible
+507;Prince and the Showgirl, The;Comedy|Romance;110;Peder Fealty;11.8;05/06/2023;;;Disponible
+508;Bird People;Drama|Fantasy|Romance;121;Wilhelm Yakebovich;77.53;01/10/2023;;;Disponible
+509;Lake House, The;Drama|Fantasy|Romance;123;Thea Forde;73.57;23/10/2023;;;Disponible
+510;Eye of the Beholder;Thriller;104;Anna-diana Wintle;32.25;02/08/2023;;;Disponible
+511;Long Way Down, A;Comedy|Drama;224;Bucky Legge;110.14;27/04/2023;;;Disponible
+512;Fistful of Dollars, A (Per un pugno di dollari);Action|Western;135;Yevette enzley;127.2;21/10/2023;;;Disponible
+513;Godzilla vs. Destroyah (Gojira vs. Desutoroiâ) ;Action|Sci-Fi;179;Gardiner Smail;40.22;27/02/2023;;;Disponible
+514;'burbs, The;Comedy;120;Dorris Kmiec;94.67;15/11/2022;;;Disponible
+515;Rocky Saga: Going the Distance, The;Documentary;236;Agnesse Kaplan;72.64;09/01/2023;;;Disponible
+516;War and Peace (Jang Aur Aman);Documentary|War;170;Aida Snozzwell;100.89;24/10/2023;;;Disponible
+517;Queen Christina;Drama|Romance;183;Merrily Guyan;129.51;22/03/2023;;;Disponible
+518;Quiet Flows the Don (Tikhiy Don);Drama|War;185;Nestor Tadgell;135.92;08/04/2023;;;Disponible
+519;Malèna;Drama|Romance|War;217;Shirlee Cadreman;121.66;21/07/2023;;;Disponible
+520;Forty-first, The (Sorok pervyy);Drama|Romance|War;163;Shina Schleswig-Holstein;145.28;15/08/2023;;;Disponible
+521;Hits;(no genres listed);170;Gretchen Remmer;94.2;11/11/2022;;;Disponible
+522;New York Ripper, The (Squartatore di New York, Lo);Crime|Horror|Mystery|Thriller;186;Hollyanne Pamplin;27.47;19/05/2023;;;Disponible
+523;Winnetou: The Red Gentleman;Adventure|Western;185;Randell Spain;138.45;12/02/2023;;;Disponible
+524;Pokémon the Movie: White - Victini and Zekrom;Animation;100;Shermie Brunnstein;110.21;17/04/2023;;;Disponible
+525;Mother's Courage: Talking Back to Autism, A;Documentary;98;Cristen Corteney;17.88;04/04/2023;;;Disponible
+526;Real Women Have Curves;Comedy|Drama;166;Walton Ginner;82.11;09/08/2023;;;Disponible
+527;Drones;Comedy|Sci-Fi;154;Englebert Blades;83.17;07/01/2023;;;Disponible
+528;Girl Can't Help It, The;Comedy;167;Delaney Gerlts;47.31;21/01/2023;;;Disponible
+529;Almost an Angel;Comedy;227;Salvidor Drewett;59.63;04/04/2023;;;Disponible
+530;Questo piccolo grande amore;Comedy|Romance;176;Sammy Barthelme;23.9;20/03/2023;;;Disponible
+531;Soldier's Daughter Never Cries, A;Drama;200;Pamela Lomas;90.34;26/03/2023;;;Disponible
+532;Tied;Drama;190;Donovan Krugmann;133.02;07/11/2022;;;Disponible
+533;Pixar Story, The;Documentary;178;Biddie Durning;85.14;11/01/2023;;;Disponible
+534;The Improv: 50 Years Behind the Brick Wall;Comedy|Documentary;140;Dominica Schultze;148.68;24/08/2023;;;Disponible
+535;Gleaming the Cube;Action|Drama|Mystery;191;Zebadiah Mustoe;83.39;05/05/2023;;;Disponible
+536;A mí las mujeres ni fu ni fa;Comedy|Musical;105;Tremaine Baggett;134.93;24/05/2023;;;Disponible
+537;Good Burger;Children|Comedy;119;Mellicent Tatersale;27.09;23/07/2023;;;Disponible
+538;Late Autumn (Akibiyori);Comedy|Drama;104;Anastassia Timmis;47.62;14/10/2023;;;Disponible
+539;Dead Man and Being Happy, The (El muerto y ser feliz);Drama;172;Ginnie Frotton;113.96;05/05/2023;;;Disponible
+540;Prey for Rock & Roll;Drama|Musical;205;Catherine Lamborn;19.81;22/01/2023;;;Disponible
+541;Chipmunk Adventure, The;Adventure|Animation|Children|Comedy|Fantasy|Musical;236;Glenine Bodicum;101.4;04/08/2023;;;Disponible
+542;The Well;Drama|Film-Noir|Thriller;153;Giselle Hatrey;73.8;11/02/2023;;;Disponible
+543;Into the Blue 2: The Reef;Action|Adventure|Thriller;182;Jeth Guirardin;49.35;04/04/2023;;;Disponible
+544;Painted Skin;Action|Drama|Thriller;226;Robina Piaggia;139.36;15/12/2022;;;Disponible
+545;High, Wide, and Handsome;Musical|Western;164;Lanie Redit;28.53;27/10/2023;;;Disponible
+546;Girls Gone Dead;Comedy|Horror;238;Waneta Babar;67.39;01/01/2023;;;Disponible
+547;American Ninja 5;Action;169;Maurise Dowber;111.66;03/03/2023;;;Disponible
+548;Cencoroll;Action|Animation|Sci-Fi;92;Marylynne Haswell;84.56;03/11/2022;;;Disponible
+549;Heist;Crime|Drama;227;Homere Eringey;19.44;30/11/2022;;;Disponible
+550;Alabama Moon;Adventure|Children|Drama;143;Rickard Wych;85.17;06/08/2023;;;Disponible
+551;Casualties of War;Drama|War;164;Kelly Lighten;79.15;22/04/2023;;;Disponible
+552;Four Ways Out;Crime|Drama;163;Rebbecca Kollas;42.6;10/10/2023;;;Disponible
+553;Model Shop;Drama;235;Michele Lethlay;104.95;27/02/2023;;;Disponible
+554;Paradise Now;Crime|Drama|Thriller|War;234;Cesya Shimwell;133.61;18/03/2023;;;Disponible
+555;Resident Evil: Damnation;Action|Animation|Horror;133;Immanuel Thomtson;112.13;15/09/2023;;;Disponible
+556;Shades of Ray;Comedy|Drama|Romance;152;Karilynn Cambell;114.78;19/12/2022;;;Disponible
+557;How to Be a Man;Comedy;116;Pennie Sweatman;79.38;24/08/2023;;;Disponible
+558;Lone Wolf and Cub: Baby Cart to Hades (Kozure Ôkami: Shinikazeni mukau ubaguruma);Action|Drama;161;Shayna Grasner;35.29;15/08/2023;;;Disponible
+559;Letter, The;Drama|Film-Noir;190;Christy Spurrier;36.15;27/03/2023;;;Disponible
+560;Omega Man, The;Action|Drama|Sci-Fi|Thriller;236;Ewell Malyon;126.76;27/06/2023;;;Disponible
+561;Sugar Town;Comedy;104;Lynnet Dik;11.86;21/02/2023;;;Disponible
+562;BookWars;Comedy|Crime|Documentary;163;Ardith Colter;73.86;04/10/2023;;;Disponible
+563;Dadetown;Drama;105;Marmaduke Abrahamson;70.3;14/07/2023;;;Disponible
+564;Garage, The;Comedy;141;Bonnibelle Tweddell;144.4;19/06/2023;;;Disponible
+565;Back from Eternity;Drama;148;Karyl Hackinge;118.19;26/06/2023;;;Disponible
+566;I, Cesar (Moi César, 10 ans 1/2, 1m39);Children|Comedy;103;Norine Caines;46.35;07/10/2023;;;Disponible
+567;Vulgar;Drama;216;Lenci Harbidge;80.41;18/06/2023;;;Disponible
+568;Armstrong Lie, The;Documentary;158;Colver Waight;137.13;15/09/2023;;;Disponible
+569;Presenting Lily Mars;Comedy|Musical|Romance;138;Carree Fallowfield;86.54;02/11/2023;;;Disponible
+570;Hidden Blade, The (Kakushi ken oni no tsume);Action|Drama|Romance;127;Merrile Jorgensen;101.02;20/04/2023;;;Disponible
+571;Nightmare on Elm Street 3: Dream Warriors, A;Horror|Thriller;96;Olly Knight;14.42;10/04/2023;;;Disponible
+572;Daylight;Horror|Thriller;233;Diane-marie Tossell;95.32;06/08/2023;;;Disponible
+573;Only God Forgives;Drama|Thriller;185;Carlynn Clendening;101.29;16/11/2022;;;Disponible
+574;Furry Vengeance;Children|Comedy;225;Gerta Buske;134.21;09/03/2023;;;Disponible
+575;Cat on a Hot Tin Roof;Drama;103;Ardis McPhater;66.57;17/07/2023;;;Disponible
+576;Late Spring (Banshun);Drama;208;Sutton Campaigne;101.68;20/06/2023;;;Disponible
+577;貞子3D;Horror;161;Waylon Saunders;104.25;24/01/2023;;;Disponible
+578;God Save the King;Comedy|Drama|Romance;165;Findley McGebenay;148.48;30/01/2023;;;Disponible
+579;Ratcatcher;Drama;206;Carole Bonellie;135.67;05/10/2023;;;Disponible
+580;Faces of Death 2;Documentary|Horror;171;Dag Elderton;101.91;15/06/2023;;;Disponible
+581;Class Action;Drama;157;Juliane Raffin;84.51;21/09/2023;;;Disponible
+582;OSS 117 - Lost in Rio (OSS 117: Rio ne répond plus);Adventure|Comedy;175;Cecile Clitherow;32.63;28/01/2023;;;Disponible
+583;Few of Us;Drama;159;Shermy Daleman;138.65;17/02/2023;;;Disponible
+584;Make Believe;Documentary;129;Casey Phillipps;24.28;17/04/2023;;;Disponible
+585;Now, Voyager;Drama|Romance;208;Allison MacGorman;144.02;03/02/2023;;;Disponible
+586;Shadow of the Vampire;Drama|Horror;195;Ferrel Grzeskowski;111.19;10/05/2023;;;Disponible
+587;Golem;Drama|Mystery|Sci-Fi;144;Lindsay Brambill;27.87;27/04/2023;;;Disponible
+588;She;Action|Adventure|Drama|Fantasy|Horror|Romance|Sci-Fi;96;Patrick Nuccitelli;115.24;21/06/2023;;;Disponible
+589;Rookie, The;Drama;116;Brynna Hobbema;146.83;31/01/2023;;;Disponible
+590;In Old Chicago;Action|Drama|Musical|War;195;Thorin Cuer;64.22;22/05/2023;;;Disponible
+591;Nightbreed;Fantasy|Horror;142;Karry Jirek;50.1;26/05/2023;;;Disponible
+592;Casanova Brown;Comedy;214;Mattie Bailie;85.41;12/04/2023;;;Disponible
+593;My Awkward Sexual Adventure;Comedy;145;Kippy Goodband;62.4;21/06/2023;;;Disponible
+594;Misfits, The;Comedy|Drama|Romance|Western;237;Rickie Starkey;124.23;10/11/2022;;;Disponible
+595;Hôtel des Invalides;Documentary;108;Terese Dundendale;134.16;27/05/2023;;;Disponible
+596;Moonfleet;Adventure|Drama;123;Hagen Pankethman;137.36;18/02/2023;;;Disponible
+597;Radio;Drama;171;Bethena Humphrys;77.46;01/02/2023;;;Disponible
+598;Gett: The Trial of Viviane Amsalem;Drama;146;Abramo Maldin;101.33;03/03/2023;;;Disponible
+599;Rollo and the Woods Sprite (Rölli ja metsänhenki);Children|Fantasy;130;Timi Forbes;137.9;03/01/2023;;;Disponible
+600;Wedding Belles;Comedy|Drama;176;Wendeline Madgwick;88.91;05/05/2023;;;Disponible
+601;Beautiful Creatures;Drama|Fantasy|Romance;173;Lani Luther;149.26;18/03/2023;;;Disponible
+602;John Carter;Action|Adventure|Sci-Fi|IMAX;101;Eugenie Hintzer;126.14;02/09/2023;;;Disponible
+603;Return of the Magnificent Seven, The (a.k.a. Return of the Seven);Western;97;Kristos Dyson;134.47;28/02/2023;;;Disponible
+604;Champion, The;Comedy;113;Danila Abbison;142.96;03/04/2023;;;Disponible
+605;Children of the Corn II: The Final Sacrifice;Horror;206;Marys Brounfield;90.14;05/03/2023;;;Disponible
+606;Enemy of the People, An;Drama;141;Roma Whitley;32.85;21/05/2023;;;Disponible
+607;Alarmist, The (a.k.a. Life During Wartime);Comedy;218;Mildrid Bricklebank;21.14;12/12/2022;;;Disponible
+608;Young and Prodigious T.S. Spivet, The (L'extravagant voyage du jeune et prodigieux T.S. Spivet);Adventure|Children|Drama;223;Lief Swindell;56.1;10/05/2023;;;Disponible
+609;Repo Men;Action|Sci-Fi|Thriller;236;Brittne Tunsley;36.77;28/01/2023;;;Disponible
+610;Rage in Heaven;Drama|Thriller;195;Rina Treffry;39.16;21/02/2023;;;Disponible
+611;Beach Boys: An American Family, The;Documentary|Drama;136;Verla Ratcliffe;129.29;24/09/2023;;;Disponible
+612;Before and After;Drama|Mystery;142;Olly Mapledoram;132.08;16/01/2023;;;Disponible
+613;Blackwoods;Drama|Thriller;123;Shauna Babinski;14.18;10/06/2023;;;Disponible
+614;War of the Dead - Stone's War ;Action|Adventure|Horror|Sci-Fi|Thriller|War;110;Donnie Mylchreest;85.74;26/02/2023;;;Disponible
+615;Restless;Drama;122;Lynda Shiliton;45.69;04/10/2023;;;Disponible
+616;Bedazzled;Comedy;140;Martie Dacre;116.56;02/06/2023;;;Disponible
+617;Diamonds;Mystery;126;Leslie Yesson;112.59;19/03/2023;;;Disponible
+618;7 Faces of Dr. Lao;Fantasy|Mystery|Western;176;Belia MacGaughy;13.32;26/06/2023;;;Disponible
+619;Quiet City;Drama;225;Sue Janikowski;61.3;15/06/2023;;;Disponible
+620;I Am;Documentary;145;Lyndsie Brockway;133.07;29/08/2023;;;Disponible
+621;Moonraker;Action|Adventure|Sci-Fi|Thriller;95;Zack Blissett;29.77;26/02/2023;;;Disponible
+622;Skeleton Man;Action|Horror;206;Marjy Washbrook;142.32;15/11/2022;;;Disponible
+623;Life is a Bed of Roses (Vie est un roman, La);Fantasy|Musical;180;Masha Castagnaro;77.65;03/11/2022;;;Disponible
+624;TerrorVision;Comedy|Horror|Sci-Fi;225;Claudetta Comins;94.22;29/06/2023;;;Disponible
+625;Wild Tales;Comedy|Drama|Thriller;180;Elizabeth Mullett;87.74;12/02/2023;;;Disponible
+626;Puccini for Beginners;Comedy|Romance;175;Wendell Albisser;39.82;23/06/2023;;;Disponible
+627;Kick-Ass;Action|Comedy;212;Kizzie Brendel;59.6;08/11/2022;;;Disponible
+628;Ghostmaker, The (Box of Shadows);Horror|Sci-Fi|Thriller;131;Chloe Francescuzzi;55.85;05/03/2023;;;Disponible
+629;Clifford;Comedy;92;Annamarie Escoffrey;31.2;18/01/2023;;;Disponible
+630;Story of Luke, The;Comedy|Drama;213;Laney Parlor;80.43;28/02/2023;;;Disponible
+631;Evil - In the Time of Heroes (To kako - Stin epohi ton iroon);Adventure|Comedy|Horror;100;Mabel Colin;61.04;21/05/2023;;;Disponible
+632;Small Wonders;Documentary;230;Jessi Hemstead;111.77;30/07/2023;;;Disponible
+633;Girl from Monaco, The (fille de Monaco, La);Comedy|Drama;200;Hal Estcourt;147.49;28/12/2022;;;Disponible
+634;Romeo and Juliet;Drama|Romance;101;Pincus Benitez;107.18;23/04/2023;;;Disponible
+635;They Live;Action|Sci-Fi|Thriller;187;Cecelia Beynon;99.64;11/03/2023;;;Disponible
+636;All the Colors of the Dark;Horror|Mystery|Thriller;148;Syman Whickman;13.14;24/10/2023;;;Disponible
+637;Vital Signs;Drama;214;Eleanora Torresi;143.57;23/12/2022;;;Disponible
+638;Game of Death;Action;119;Tamarah Gwillym;52.02;12/10/2023;;;Disponible
+639;Jabberwocky;Adventure|Comedy|Fantasy;199;Brose Gowers;38.45;24/03/2023;;;Disponible
+640;We'll Never Have Paris;Comedy|Romance;116;Perry Kleinberer;20.63;17/08/2023;;;Disponible
+641;Vice;Action|Adventure|Sci-Fi|Thriller;225;Sophey Sawbridge;88.16;03/01/2023;;;Disponible
+642;Authors Anonymous;Comedy|Drama|Romance;218;Sibbie Coling;32.02;28/09/2023;;;Disponible
+643;Never Been Kissed;Comedy|Romance;186;Gerard Dennehy;13.47;24/11/2022;;;Disponible
+644;Oak, The (Balanta);Comedy|Drama;215;Bruno Adey;81.53;22/08/2023;;;Disponible
+645;Me tulemme taas;Comedy|Musical;118;Francis Janoschek;146.83;15/11/2022;;;Disponible
+646;We Need a Vacation (Fais-moi des vacances);Comedy|Drama;217;Emelia Mallord;108.39;28/06/2023;;;Disponible
+647;New Waterford Girl;Comedy;182;Elia Ellyatt;147.65;02/02/2023;;;Disponible
+648;Virgin Territory;Adventure|Comedy|Romance;203;Sanson Ketteridge;131.73;09/09/2023;;;Disponible
+649;Cool School, The;Documentary;238;Sibeal Cayle;135.04;08/02/2023;;;Disponible
+650;I'll Be Home For Christmas;Comedy|Romance;115;Barnebas Kynoch;126.78;02/10/2023;;;Disponible
+651;Clown;Drama|Horror;207;Merridie Cotsford;39.31;09/10/2023;;;Disponible
+652;In a Dark Place;Horror|Mystery|Thriller;160;Wallis Birden;144.51;26/06/2023;;;Disponible
+653;Sweet Sweetback's Baadasssss Song;Crime|Drama|Thriller;192;Colas Spensley;61.61;02/07/2023;;;Disponible
+654;Numbers Station, The;Action|Thriller;191;Spence Coady;133.69;17/04/2023;;;Disponible
+655;Coma;Thriller;125;Annaliese Antoni;87.9;19/06/2023;;;Disponible
+656;Sketches of Frank Gehry;Documentary;223;Vince McDuffie;122.63;12/04/2023;;;Disponible
+657;Treed Murray;Drama;224;Blaine Wheelband;115.09;23/07/2023;;;Disponible
+658;Something in the Wind;Comedy|Musical;192;Carney Howes;48.15;12/09/2023;;;Disponible
+659;Blood, Guts, Bullets and Octane;Action|Comedy;121;Rayner Heakey;126.58;04/09/2023;;;Disponible
+660;No Nukes;Documentary|Musical;115;Salli Bargh;136.02;10/07/2023;;;Disponible
+661;An Empress and the Warriors;Action|Drama|Romance|War;146;Sybyl Borthram;68.72;09/11/2022;;;Disponible
+662;Forsaking All Others;Comedy|Drama|Romance;200;Elvira Grzeszczyk;148.78;14/11/2022;;;Disponible
+663;Welcome Farewell-Gutmann (Bienvenido a Farewell-Gutmann);Comedy|Drama;152;Vasilis Browning;122.59;07/06/2023;;;Disponible
+664;120;Drama|War;107;Amie Eliassen;75.17;01/10/2023;;;Disponible
+665;Earthling, The;Adventure|Drama;223;Ruperto Meriet;142.53;23/01/2023;;;Disponible
+666;Redhead from Wyoming, The;Western;168;Samara Gay;88.86;30/03/2023;;;Disponible
+667;Tale of Two Cities, A;Drama|Romance;103;Angil Clatworthy;139.96;19/09/2023;;;Disponible
+668;xXx;Action|Crime|Thriller;191;Ezmeralda Sotheron;101.18;09/09/2023;;;Disponible
+669;Flash Gordon's Trip to Mars;Action|Sci-Fi;101;Lorelle Grouen;130.06;01/10/2023;;;Disponible
+670;Resolution;Horror|Thriller;178;Malissia Tebbitt;128.31;08/02/2023;;;Disponible
+671;In the Hands of the Gods;Documentary;187;Ronni Aldren;124.37;28/08/2023;;;Disponible
+672;The Disappeared;Documentary;155;Emmalynne Iceton;116.4;15/10/2023;;;Disponible
+673;See This Movie;Comedy;177;August Ferber;75.91;30/10/2023;;;Disponible
+674;Tungsten;Drama;197;Ricki Yeowell;68.14;10/01/2023;;;Disponible
+675;Scary Movie 3;Comedy|Horror;148;Ilka Benedit;106.94;03/02/2023;;;Disponible
+676;Beverly Hills Ninja;Action|Comedy;207;Layla Juckes;103.7;08/07/2023;;;Disponible
+677;Taxi 4;Action|Comedy;172;Rori Riddett;43.09;27/12/2022;;;Disponible
+678;Tree Grows in Brooklyn, A;Drama;140;Niles Letixier;141.83;26/01/2023;;;Disponible
+679;Aliens in the Attic;Adventure|Children|Fantasy|Sci-Fi;142;Merrile Rousby;119.37;21/01/2023;;;Disponible
+680;Frostbitten (Frostbiten);Comedy|Horror;148;Nathanael Michael;46.73;26/12/2022;;;Disponible
+681;Two Girls and a Sailor;Comedy|Musical|Romance;234;Cleopatra McKeown;56.44;10/04/2023;;;Disponible
+682;Leaning Tower, The (Kalteva torni);Comedy;224;Hortense Baldam;138.23;01/12/2022;;;Disponible
+683;Single Girl, A (Fille seule, La);Drama;152;Neill Batch;149.46;07/02/2023;;;Disponible
+684;Jackie Brown;Crime|Drama|Thriller;186;Harriette Leall;52.68;02/07/2023;;;Disponible
+685;War of the Robots (La guerra dei robot);Action|Adventure|Sci-Fi;219;Maggi Tomasik;22.87;05/05/2023;;;Disponible
+686;I Start Counting;Thriller;135;Cassaundra Vasnetsov;111.53;23/03/2023;;;Disponible
+687;Buddha Collapsed Out of Shame;Drama|War;240;Bradley Ryman;136.24;04/07/2023;;;Disponible
+688;Pursuit of the Graf Spee (Battle of the River Plate, The);Action|Adventure|Drama|War;142;Happy Prys;98.52;19/09/2023;;;Disponible
+689;Tightrope;Thriller;173;Gisella Russell;88.66;23/08/2023;;;Disponible
+690;U2: Rattle and Hum;Documentary|Musical;157;Susi Jope;135.53;23/04/2023;;;Disponible
+691;Circle, The;Drama;141;Bethena Bunyard;25.72;03/08/2023;;;Disponible
+692;The Fifth Season;Drama;157;Alessandro Esslement;22.95;05/11/2022;;;Disponible
+693;Late Quartet, A;Drama;92;Blondie Tubby;26.61;23/02/2023;;;Disponible
+694;David Cross: Let America Laugh;Comedy|Documentary;207;Damon Surplice;50.36;21/02/2023;;;Disponible
+695;5 Fingers;Drama|Thriller;176;Sherlock Azemar;145.38;02/10/2023;;;Disponible
+696;3rd World Hero (Bayaning Third World);Drama;113;Mallorie Bottomley;57.07;04/11/2022;;;Disponible
+697;Princess Aurora (Orora gongju);Crime|Drama|Mystery;150;Dyann Hewertson;74.38;27/09/2023;;;Disponible
+698;Coluche, l'histoire d'un mec;Drama;152;Ogdan Noorwood;135.01;21/10/2023;;;Disponible
+699;Lust for Gold;Romance|Western;153;Michelle Noriega;23.95;09/07/2023;;;Disponible
+700;King David;Action|Drama|War;166;Minor Lemar;59.16;11/07/2023;;;Disponible
+701;UHF;Comedy;140;Frannie Harness;26.19;14/02/2023;;;Disponible
+702;Right Kind of Wrong, The;Comedy|Romance;157;Derk Bernade;86.93;16/09/2023;;;Disponible
+703;Up the Yangtze;Documentary;234;Boone Burvill;72.45;11/06/2023;;;Disponible
+704;The Vexxer;Comedy|Crime;191;Diandra Fairlem;114.34;11/10/2023;;;Disponible
+705;From Dad to Son;Animation|Drama;152;Andrew Simmins;104.65;01/07/2023;;;Disponible
+706;Farmer & Chase;Comedy;161;Zsa zsa Molohan;115.03;10/04/2023;;;Disponible
+707;Buddy Buddy;Comedy;224;Ansley Attenbrow;59.86;09/06/2023;;;Disponible
+708;Making Mr. Right;Comedy|Romance|Sci-Fi;158;Cherrita Wrathall;139.12;21/12/2022;;;Disponible
+709;Sione's Wedding (Samoan Wedding);Comedy|Romance;175;Tove Chesterman;19.02;04/05/2023;;;Disponible
+710;C.S.A.: The Confederate States of America;Comedy|Drama;184;Fergus Woolbrook;20.28;25/05/2023;;;Disponible
+711;Mrs. Soffel;Drama|Romance;220;Phylis Bruineman;12.52;21/03/2023;;;Disponible
+712;Ffolkes;Action|Adventure|Thriller;181;Korie Rees;42.96;31/12/2022;;;Disponible
+713;9;Animation|Fantasy;218;Darcee Verlinde;11.59;14/06/2023;;;Disponible
+714;Maidens in Uniform (Mädchen in Uniform);Drama|Romance;214;Astrid Faireclough;120.56;27/12/2022;;;Disponible
+715;Allan Quatermain and the Lost City of Gold;Action|Adventure|Comedy;98;Rey Rude;13.89;08/08/2023;;;Disponible
+716;Coney Island;Comedy;217;Loleta Fundell;54.96;15/11/2022;;;Disponible
+717;Margaret;Drama;171;Ameline Caygill;143.29;21/08/2023;;;Disponible
+718;Hello, Dolly!;Comedy|Musical|Romance;238;Melli Fookes;136.49;25/06/2023;;;Disponible
+719;Bogus;Children|Drama|Fantasy;129;Julissa Buttress;119.77;23/10/2023;;;Disponible
+720;The Bride Wore Red;Comedy|Drama|Romance;128;Bernie Brunelleschi;29.28;02/12/2022;;;Disponible
+721;Django, Kill... If You Live, Shoot! (Se sei vivo spara);Horror|Western;169;Anett Sands;125.6;17/06/2023;;;Disponible
+722;Blue Thunder;Action|Crime|Drama;158;Bree Polkinhorn;125.4;16/01/2023;;;Disponible
+723;Read My Lips (Sur mes lèvres);Crime|Drama|Thriller;206;Corie Bathoe;95.67;23/11/2022;;;Disponible
+724;Rage;Drama;146;Esma Blumsom;40.0;28/01/2023;;;Disponible
+725;Pyramid, The;Horror;206;Goldy Tonkinson;42.42;20/06/2023;;;Disponible
+726;Boy Who Could Fly, The;Drama|Fantasy;142;Udale Crasswell;113.85;04/09/2023;;;Disponible
+727;Behind Enemy Lines;Action|Drama|War;225;Glenden Petherick;20.2;28/04/2023;;;Disponible
+728;Sometimes a Great Notion;Action|Adventure|Drama;111;Agnese Martinuzzi;26.53;10/01/2023;;;Disponible
+729;If Footmen Tire You What Will Horses Do?;Drama;193;Tabatha Lanigan;113.22;02/11/2023;;;Disponible
+730;Earth;Drama|War;113;Issy Perkins;51.14;19/07/2023;;;Disponible
+731;Inconvenient Truth, An;Documentary;119;Berri Tookill;97.91;30/11/2022;;;Disponible
+732;Tremors;Comedy|Horror|Sci-Fi;118;Hi Dmitrichenko;60.93;07/01/2023;;;Disponible
+733;Stupids, The;Comedy;164;Corissa Hoyles;26.23;29/07/2023;;;Disponible
+734;Bonjour Monsieur Shlomi (Ha-Kochavim Shel Shlomi);Comedy|Drama;139;Dougie Wallage;114.04;22/07/2023;;;Disponible
+735;Madhouse;Crime|Horror|Mystery;97;Lisa Stolte;137.68;27/12/2022;;;Disponible
+736;Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea);Children|Drama|Romance;175;Ethelbert Neno;23.1;30/01/2023;;;Disponible
+737;Actresses (Actrices);Comedy|Drama;214;Scarlett Gillino;63.88;31/07/2023;;;Disponible
+738;Godzilla: Tokyo S.O.S. (Gojira tai Mosura tai Mekagojira: Tôkyô S.O.S.);Action|Fantasy|Sci-Fi;165;Maureene Blaik;96.85;06/03/2023;;;Disponible
+739;Two Can Play That Game;Comedy|Drama;210;Natty Creavin;34.14;26/04/2023;;;Disponible
+740;Man on the Moon;Comedy|Drama;226;Cedric Singleton;19.94;05/09/2023;;;Disponible
+741;External Affairs;Drama;163;Emery Tremouille;39.51;06/08/2023;;;Disponible
+742;Year One;Adventure|Comedy;174;Kaiser Kroon;119.58;11/09/2023;;;Disponible
+743;Our Idiot Brother;Comedy;181;Heather Borrington;17.35;21/04/2023;;;Disponible
+744;Jackass Presents: Bad Grandpa;Comedy;177;Alisander Posselwhite;38.13;20/05/2023;;;Disponible
+745;Mr. 3000;Comedy|Drama;199;Staci Skelington;23.39;04/10/2023;;;Disponible
+746;Kamchatka;Drama;119;Stanislas Smewin;88.62;19/10/2023;;;Disponible
+747;We Are What We Are (Somos lo que hay);Drama|Horror;218;Moishe Woolvett;10.62;25/12/2022;;;Disponible
+748;White Squall;Action|Adventure|Drama;120;Ame McNelly;148.42;27/01/2023;;;Disponible
+749;Future by Design;Documentary|Sci-Fi;171;Alys Just;104.07;03/12/2022;;;Disponible
+750;Space;Drama;189;Patrizio Navarro;138.06;28/10/2023;;;Disponible
+751;Maurice;Drama|Romance;106;Scotti Baxill;104.06;31/03/2023;;;Disponible
+752;Sparks;Action|Fantasy|Mystery|Sci-Fi|Thriller;105;Callida Meek;95.32;31/10/2023;;;Disponible
+753;The Wind in the Willows;Adventure|Animation|Children|Comedy;148;Ulric Fowlestone;55.31;29/05/2023;;;Disponible
+754;Stealing a Nation;Documentary;126;Isabeau Clymer;17.37;22/11/2022;;;Disponible
+755;Hawk Is Dying, The;Drama;100;Illa McFarland;115.94;08/03/2023;;;Disponible
+756;Visual Acoustics;Documentary;180;Manon Culleford;122.64;14/12/2022;;;Disponible
+757;Nothing Sacred;Comedy|Drama|Romance;108;Gwynne Killbey;45.5;05/12/2022;;;Disponible
+758;Back to the Future Part II;Adventure|Comedy|Sci-Fi;114;Sharron Puxley;19.64;28/02/2023;;;Disponible
+759;U.S. vs. John Lennon, The;Documentary;219;Mile Bilbey;87.63;20/07/2023;;;Disponible
+760;Little Secrets;Children|Comedy|Drama;157;Curtis Dikle;129.74;11/12/2022;;;Disponible
+761;Reader, The;Drama|Romance;95;Lucinda Yuryev;99.94;19/04/2023;;;Disponible
+762;Cry Wolf;Crime|Drama|Mystery|Thriller;117;Vivia Mazin;11.83;15/07/2023;;;Disponible
+763;Storm of the Century;Horror|Thriller;212;Dahlia Byrde;95.79;11/09/2023;;;Disponible
+764;Raiders of Atlantis, The;Action|Mystery|Sci-Fi;90;Goldia Swin;71.64;18/05/2023;;;Disponible
+765;Little Foxes, The;Drama;138;Crichton Maker;53.88;30/08/2023;;;Disponible
+766;Raw Deal: A Question of Consent;Documentary;142;Sayre Alabone;101.28;08/06/2023;;;Disponible
+767;Rudolph the Red-Nosed Reindeer: The Movie;Animation|Children;135;Ina Josifovic;52.04;28/01/2023;;;Disponible
+768;Dead Heat on a Merry-Go-Round;Comedy|Crime;171;Ondrea Carsberg;87.23;26/05/2023;;;Disponible
+769;Pajeczarki;Action|Comedy;239;Kaleb Bake;96.16;11/02/2023;;;Disponible
+770;Frozen;Drama;130;Darsie Yesinin;132.71;24/07/2023;;;Disponible
+771;Lonesome;Comedy|Drama|Romance;229;Toby Wight;13.86;04/05/2023;;;Disponible
+772;Switch, The;Comedy|Romance;134;Willie Lindholm;46.11;28/03/2023;;;Disponible
+773;High School High;Comedy;143;Matthew Duinbleton;106.93;10/09/2023;;;Disponible
+774;Everything Will Be Fine;Drama|Thriller;119;Prentice Ochiltree;132.55;26/04/2023;;;Disponible
+775;All American Chump;Comedy;231;Rosaleen Patinkin;114.22;13/06/2023;;;Disponible
+776;Shadow People;Drama;224;Gennie Fieller;104.04;24/10/2023;;;Disponible
+777;Jackpot;Drama;163;Jacinda Deards;142.83;25/11/2022;;;Disponible
+778;Zorro, the Gay Blade;Comedy;91;Lanna McMonnies;83.6;06/12/2022;;;Disponible
+779;Me and Morrison (Minä ja Morrison);Romance;211;Riki Townby;53.81;07/03/2023;;;Disponible
+780;Dancing Hawk, The (Tanczacy jastrzab);(no genres listed);187;Zandra Duddan;94.74;28/11/2022;;;Disponible
+781;Stockholm, Pennsylvania;Drama|Thriller;132;Adriaens Ianizzi;56.49;07/04/2023;;;Disponible
+782;Feeling Minnesota;Drama|Romance;210;Daniele Cornu;80.21;14/03/2023;;;Disponible
+783;Ladies in Retirement;Drama;121;Kendre Jirzik;84.94;21/07/2023;;;Disponible
+784;Acadia Acadia?!? (L'acadie, l'Acadie);Documentary;177;Gwyn Beenham;99.96;08/04/2023;;;Disponible
+785;Tunnel, The;Drama|Horror|Thriller;154;Chrisy Kermon;13.98;25/07/2023;;;Disponible
+786;Ripley Under Ground;Drama|Romance|Thriller;202;Theda Tomasutti;128.13;05/05/2023;;;Disponible
+787;Hellraiser;Horror;125;Amy Veschambes;113.2;04/07/2023;;;Disponible
+788;Undisputed II: Last Man Standing;Action|Crime|Drama;150;Ludwig Thomke;116.12;23/01/2023;;;Disponible
+789;Days and Hours (Kod amidze Idriza);Drama;161;Welby MacInerney;88.24;27/06/2023;;;Disponible
+790;Comedy of Innocence (Comédie de l'innocence);Drama|Thriller;101;Maddalena Blodget;114.57;13/08/2023;;;Disponible
+791;Delgo;Adventure|Animation|Comedy|Fantasy|Romance;111;Marcos Tomasz;104.85;30/10/2023;;;Disponible
+792;Friend Is a Treasure, A (Chi Trova Un Amico, Trova un Tesoro) (Who Finds a Friend Finds a Treasure);Action|Adventure|Comedy;170;Shepard Jamrowicz;121.48;26/12/2022;;;Disponible
+793;Nicholas Nickleby;Drama|Romance;238;Hadlee Bamborough;22.49;26/04/2023;;;Disponible
+794;It's A Wonderful World;Comedy|Crime|Romance;194;Isidora Keher;88.09;10/05/2023;;;Disponible
+795;Greetings;Comedy;144;Sydney Mercy;11.93;14/02/2023;;;Disponible
+796;Prince of Jutland (a.k.a. Royal Deceit);Drama;155;Corty Rispin;38.1;18/10/2023;;;Disponible
+797;Kisses;Drama;216;Eric Roeby;55.36;22/12/2022;;;Disponible
+798;You Don't Mess with the Zohan;Comedy;233;Fernanda Degoe;132.34;24/06/2023;;;Disponible
+799;Jonathan Rosenbaum, Present;Documentary;189;Glynnis Gingedale;99.07;10/03/2023;;;Disponible
+800;Mondays in the Sun (Lunes al sol, Los);Drama;189;Emmet Cruft;86.74;10/08/2023;;;Disponible
+801;Reluctant Astronaut, The;Comedy;237;Mag Noddles;102.23;11/01/2023;;;Disponible
+802;Tess;Drama|Romance;236;Araldo Aslen;91.3;02/08/2023;;;Disponible
+803;Dying Swan, The (Umirayushchii lebed);Drama;191;Jephthah Glaze;92.88;22/03/2023;;;Disponible
+804;Russian Roulette;Drama|Thriller;146;Sauveur Stobbe;106.41;07/10/2023;;;Disponible
+805;City Limits;Action|Sci-Fi;224;Marget McConway;80.01;01/10/2023;;;Disponible
+806;Real Life;Comedy;237;Kara-lynn Tyne;59.0;09/05/2023;;;Disponible
+807;Late Autumn (Man-choo);Drama|Romance;153;Kandy Aleksankin;130.44;15/04/2023;;;Disponible
+808;Heavyweights (Heavy Weights);Children|Comedy;96;Sharline Eden;87.83;26/07/2023;;;Disponible
+809;Speak;Drama;118;Sullivan O'Feeney;129.63;15/01/2023;;;Disponible
+810;American Ninja;Action|Adventure;103;Wenona Stithe;75.93;23/08/2023;;;Disponible
+811;Curse of the Jade Scorpion, The;Comedy;218;Jacynth Rowlinson;38.77;17/08/2023;;;Disponible
+812;Demonic Toys;Comedy|Fantasy|Horror;230;Frannie Kleinhaut;90.57;21/06/2023;;;Disponible
+813;John Q;Crime|Drama|Thriller;193;Mandy Sheehy;108.34;28/07/2023;;;Disponible
+814;Volcano High (Whasango);Action|Comedy;97;Costa Leatherland;108.27;05/02/2023;;;Disponible
+815;Die Fischerin;Drama;163;Donaugh Beagin;72.14;09/01/2023;;;Disponible
+816;Bug;Horror|Mystery|Sci-Fi;164;Fee Desmond;65.54;26/10/2023;;;Disponible
+817;Vengeance (Fuk sau);Action|Crime|Thriller;158;Emanuel Caroline;34.67;05/06/2023;;;Disponible
+818;Mother's Courage: Talking Back to Autism, A;Documentary;142;Nikolaus Gerasch;83.97;20/12/2022;;;Disponible
+819;American Beauty;Comedy|Drama;174;Lynnett Verbrugge;143.1;29/04/2023;;;Disponible
+820;Interview;Drama;228;Reinaldo Kirby;90.35;22/07/2023;;;Disponible
+821;Merchants of Doubt;Documentary;197;Vikki Emmitt;86.84;05/10/2023;;;Disponible
+822;Amour;Drama|Romance;237;Ludovico Benz;105.23;26/06/2023;;;Disponible
+823;Jesus Is a Palestinian (Jezus is een Palestijn);Comedy;201;Alvina Freak;116.51;29/01/2023;;;Disponible
+824;Asphalt Playground (La cité rose);Comedy;90;Ruperta Havesides;29.67;08/03/2023;;;Disponible
+825;They Gave Him A Gun;Crime|Drama;146;Elysee Handmore;20.28;13/10/2023;;;Disponible
+826;Taming of the Shrew, The;Comedy;224;Ailbert Lapley;140.32;21/05/2023;;;Disponible
+827;Fistful of Fingers, A;Comedy|Western;240;Raymund Calderonello;54.76;02/12/2022;;;Disponible
+828;Flesh for Frankenstein (a.k.a. Andy Warhol's Frankenstein);Drama|Horror|Sci-Fi;177;Ave Mithon;91.6;28/09/2023;;;Disponible
+829;My Wife's Relations;Comedy;168;Saleem Bright;88.97;30/01/2023;;;Disponible
+830;Lola Montès;Drama;220;Joeann Arbon;18.54;11/12/2022;;;Disponible
+831;Pariah;Drama;210;Barnabe Geikie;25.86;27/08/2023;;;Disponible
+832;Anything Else;Comedy|Drama|Romance;100;Annecorinne Dunphie;116.35;09/07/2023;;;Disponible
+833;Poltergeist II: The Other Side;Horror|Thriller;163;Umberto Ivatt;129.22;06/10/2023;;;Disponible
+834;Lotte Reiniger: Homage to the Inventor of the Silhouette Film;Documentary;126;Doralyn Aird;41.78;17/07/2023;;;Disponible
+835;Revenge of the Ninja;Action|Drama;220;Kareem Crafts;10.87;18/07/2023;;;Disponible
+836;Once Upon a Crime...;Comedy|Mystery;173;Reggie Biglin;129.34;09/04/2023;;;Disponible
+837;What's in a Name (Prénom, Le);Comedy;239;Sylvia Lefeuvre;35.32;28/07/2023;;;Disponible
+838;Idlewild;Crime|Drama|Musical;107;Nikita Glasscoo;21.29;24/08/2023;;;Disponible
+839;Prometheus;Action|Horror|Sci-Fi|IMAX;91;Elita Beadell;141.04;30/04/2023;;;Disponible
+840;I Am Love (Io sono l'amore);Drama|Romance;226;Devon Becom;82.51;09/01/2023;;;Disponible
+841;Universal Soldier: Day of Reckoning;Action|Sci-Fi|Thriller;119;Mattie Kulicke;103.42;08/03/2023;;;Disponible
+842;April Showers;Drama;215;Merle Shepherd;145.56;22/04/2023;;;Disponible
+843;Shadow Kill;Drama;110;Gray Carratt;128.14;16/11/2022;;;Disponible
+844;American Zombie;Comedy|Horror;109;Alina Iashvili;60.32;01/04/2023;;;Disponible
+845;Butch Cassidy and the Sundance Kid;Action|Western;151;Burnaby Fry;118.6;07/01/2023;;;Disponible
+846;Seven Girlfriends;Comedy|Romance;195;Rozele Hobble;12.27;14/09/2023;;;Disponible
+847;Shooting Fish;Comedy|Romance;226;Aloin Caldairou;68.88;28/03/2023;;;Disponible
+848;Act of Violence;Drama|Film-Noir|Thriller;189;Bonnee Mose;40.61;20/02/2023;;;Disponible
+849;Michael the Brave (Mihai Viteazul);Action|Drama;90;Moise Mynett;111.35;26/09/2023;;;Disponible
+850;Crockdale;Drama;143;Edsel Diment;114.44;15/06/2023;;;Disponible
+851;Gore Vidal: The United States of Amnesia;Documentary;98;Mandy Muzzall;18.01;01/02/2023;;;Disponible
+852;Gimme the Loot;Drama;220;Dasya Rabjohns;23.48;14/10/2023;;;Disponible
+853;Buddy Buddy;Comedy;186;Meryl Walmsley;86.8;03/08/2023;;;Disponible
+854;Deadline - U.S.A.;Crime|Drama;200;Tyrus Pelling;22.85;01/12/2022;;;Disponible
+855;300 Spartans, The;Adventure|Drama|War;103;Nathaniel Dufour;74.26;23/12/2022;;;Disponible
+856;Moment After, The;Drama|Sci-Fi|Thriller;108;Nara Antonovic;67.53;01/11/2023;;;Disponible
+857;Scared Shrekless;Adventure|Animation|Comedy;103;Darius Lowers;79.46;16/04/2023;;;Disponible
+858;Disclosure;Drama|Thriller;239;Anet Bill;51.48;08/07/2023;;;Disponible
+859;Penda's Fen;Fantasy;192;Jennica Gruszecki;39.75;27/10/2023;;;Disponible
+860;Lionheart;Action;170;Donna Bucky;119.69;30/07/2023;;;Disponible
+861;Hi, Mom!;Comedy;159;Kale Coggell;57.34;09/03/2023;;;Disponible
+862;Ted;Comedy|Fantasy;193;Ramona Cockerham;36.13;16/04/2023;;;Disponible
+863;Delicacy (La délicatesse);Comedy|Romance;130;Lavinie Medlicott;104.79;10/05/2023;;;Disponible
+864;Phantom Lady;Crime|Film-Noir|Mystery;206;Valentine Fausch;19.2;09/04/2023;;;Disponible
+865;Saving Face;Documentary|Drama;221;Calli Zanardii;69.06;20/06/2023;;;Disponible
+866;Magnificent Warriors (Zhong hua zhan shi);Action;109;Melony Ambler;140.4;22/02/2023;;;Disponible
+867;Game Over;Crime|Drama|Thriller;223;Gretal Halgarth;141.0;12/11/2022;;;Disponible
+868;Days of Grace (Días de gracia) ;Thriller;232;Rozele Darrell;93.23;19/12/2022;;;Disponible
+869;Two Weeks in Another Town;Drama;188;Gare Edess;40.54;20/12/2022;;;Disponible
+870;Firestarter;Horror|Thriller;220;Lyn Francomb;135.27;16/01/2023;;;Disponible
+871;Turtle's Tale: Sammy's Adventures, A;Adventure|Animation;206;Chrotoem Piwell;120.03;10/08/2023;;;Disponible
+872;Small Cuts (Petites coupures);Drama|Romance;173;Nikos Paprotny;50.84;23/06/2023;;;Disponible
+873;Good Morning, Babylon;Drama;105;Tiffany Vasile;130.16;30/09/2023;;;Disponible
+874;Astronaut Farmer, The;Drama;93;Pet Bottrell;146.12;26/02/2023;;;Disponible
+875;3000 Miles to Graceland;Action|Thriller;116;Jaime Bartlomieczak;129.51;17/10/2023;;;Disponible
+876;Trilogy of Terror II;Horror;101;Darb Colicot;91.34;11/01/2023;;;Disponible
+877;Flight of the Navigator;Adventure|Children|Sci-Fi;146;Allistir Licari;143.63;03/03/2023;;;Disponible
+878;Vampire Apocalypse;Comedy|Horror;185;Rockwell Maddinon;106.12;26/04/2023;;;Disponible
+879;Backwood Philosopher (Havukka-ahon ajattelija);Comedy|Drama;94;Pansy Auchterlonie;21.77;30/11/2022;;;Disponible
+880;Listy do M.;Comedy|Romance;206;Ephrem Confait;135.0;05/09/2023;;;Disponible
+881;Garden of Allah, The;Drama;174;Gennifer Bonehill;124.82;18/12/2022;;;Disponible
+882;Legend of the Lost;Adventure;125;Brook Kubatsch;57.81;09/09/2023;;;Disponible
+883;Sidekicks;Action|Adventure|Children|Comedy;168;Danila Caplen;41.95;21/06/2023;;;Disponible
+884;Forgetting Sarah Marshall;Comedy|Romance;92;Freedman Haffenden;40.26;09/05/2023;;;Disponible
+885;Kisses (Kuchizuke);Drama|Romance;114;Aleece Desantis;43.25;10/09/2023;;;Disponible
+886;Unconscious (Inconscientes);Comedy|Mystery|Romance;224;Vere Leglise;104.1;18/11/2022;;;Disponible
+887;Heartbeats (Les amours imaginaires);Drama|Romance;104;Haily Beebis;105.27;15/02/2023;;;Disponible
+888;Cleaner;Crime|Thriller;143;Clerkclaude Dencs;80.91;27/06/2023;;;Disponible
+889;Rambo (Rambo 4);Action|Drama|Thriller|War;121;Fitzgerald Lamperti;121.37;27/06/2023;;;Disponible
+890;Charge of the Light Brigade, The;Drama|War;167;Kane Lennon;59.4;28/02/2023;;;Disponible
+891;Trust the Man;Comedy|Drama|Romance;143;Kay Studman;127.59;31/07/2023;;;Disponible
+892;Last Days;Drama;224;Dori Divisek;99.18;08/12/2022;;;Disponible
+893;Secret Ballot (Raye makhfi);Comedy;135;Allie Burstowe;100.33;20/04/2023;;;Disponible
+894;Honey Moon (Honigmond);Comedy;175;Carce Thomason;96.21;11/02/2023;;;Disponible
+895;Cat Concerto, The;Animation|Children|Comedy;121;Granthem Schubbert;17.78;30/09/2023;;;Disponible
+896;Lost in America;Comedy;167;Biddie Bohden;81.91;01/11/2023;;;Disponible
+897;Wyatt Earp's Revenge;Action|Adventure|Drama;111;Gennie Fincher;32.41;16/04/2023;;;Disponible
+898;Carnival of Souls;Horror|Thriller;167;Milton Kinset;117.56;13/03/2023;;;Disponible
+899;Love Liza;Drama;123;Lemar Paulsen;132.35;06/09/2023;;;Disponible
+900;Romantics Anonymous (Les émotifs anonymes);Comedy|Romance;137;Randolf Gotch;43.7;04/05/2023;;;Disponible
+901;How to Live Forever;Documentary;108;Bronny Bilovsky;22.66;25/05/2023;;;Disponible
+902;Adventures of a Dentist;Comedy;92;Elysee Antrobus;60.64;13/03/2023;;;Disponible
+903;Traffic Affairs (Mitfahrer);Drama;127;Stevy Rozycki;68.65;16/09/2023;;;Disponible
+904;Never Let Me Go;Drama|Romance|Sci-Fi;199;Godiva Londsdale;58.96;30/01/2023;;;Disponible
+905;Of Time and the City;Documentary;210;Luigi Pavek;32.86;17/04/2023;;;Disponible
+906;Mirror, The (Ayneh);Drama;211;Lorianna Salaman;68.99;06/01/2023;;;Disponible
+907;Jonah Who Will Be 25 in the Year 2000 (Jonas qui aura 25 ans en l'an 2000);Comedy;165;Bord Jedras;21.18;29/09/2023;;;Disponible
+908;The Dark Knight;Action|Crime|Drama|Thriller;133;Beatriz Gaskin;17.25;09/09/2023;;;Disponible
+909;Whisper of the Heart (Mimi wo sumaseba);Animation|Drama|Romance;230;Noak Fairhall;68.11;29/01/2023;;;Disponible
+910;Evilspeak;Horror|Sci-Fi;237;Emmet Philcott;42.56;04/04/2023;;;Disponible
+911;Bucky Larson: Born to Be a Star;Comedy;128;Dietrich Cominetti;40.8;13/07/2023;;;Disponible
+912;Fan, The;Drama|Thriller;165;Katie Leckenby;48.44;01/03/2023;;;Disponible
+913;Son of Godzilla (Kaijûtô no kessen: Gojira no musuko);Sci-Fi;237;Gavan Dymock;65.11;20/09/2023;;;Disponible
+914;Ax, The (couperet, Le);Comedy|Crime;228;Cecelia Sherrock;75.17;09/09/2023;;;Disponible
+915;Sorority Wars;Comedy|Drama;133;Lewiss Strewther;131.32;12/11/2022;;;Disponible
+916;Code, The (Mentale, La);Action|Crime|Thriller;215;Bryce Ast;136.66;29/01/2023;;;Disponible
+917;Civil Action, A;Drama;116;Mill Shedd;107.81;08/08/2023;;;Disponible
+918;Exorcist II: The Heretic;Horror;93;Archie Kelling;31.53;29/12/2022;;;Disponible
+919;The Gruffalo's Child;Adventure|Animation|Children|Fantasy;214;Dede Argont;15.14;05/02/2023;;;Disponible
+920;Happy Together (a.k.a. Buenos Aires Affair) (Chun gwong cha sit);Drama|Romance;233;Hubey Petow;95.3;21/05/2023;;;Disponible
+921;Without Warning;Sci-Fi;199;Ban Urion;35.12;07/06/2023;;;Disponible
+922;Dark Night of the Scarecrow;Horror|Mystery;150;Rudie Woolard;14.16;20/08/2023;;;Disponible
+923;Bananaz;Documentary;166;Humphrey Cobden;42.96;18/01/2023;;;Disponible
+924;King Boxer: Five Fingers of Death (Tian xia di yi quan);Action|Drama|Romance;226;Marina Blakden;147.44;14/09/2023;;;Disponible
+925;My Dear Desperado;Comedy;154;Pierrette Roxburgh;81.38;21/03/2023;;;Disponible
+926;I Hate But Love (Nikui an-chikushô);Action|Comedy|Drama|Romance;90;Anatole Kadd;27.11;16/10/2023;;;Disponible
+927;All Together, The;Comedy|Drama|Romance;209;Hedda Brahmer;139.5;03/06/2023;;;Disponible
+928;Just Pals;Western;168;Sherill Royden;51.12;05/12/2022;;;Disponible
+929;Kind of Loving, A;Drama|Romance;132;Ralf Seifenmacher;38.82;29/04/2023;;;Disponible
+930;Kiss of Death;Crime|Drama|Thriller;114;Carter Frandsen;22.67;08/06/2023;;;Disponible
+931;Blood on Satan's Claw (a.k.a. Satan's Skin);Horror|Thriller;91;Burch Docksey;39.83;06/07/2023;;;Disponible
+932;Ferryman, The;Fantasy|Horror|Thriller;104;Liz Agius;127.56;17/06/2023;;;Disponible
+933;Mummy's Ghost, The;Horror;130;Hanny Sibbons;19.02;13/11/2022;;;Disponible
+934;Intermezzo;Drama|Romance;200;Nadiya Kell;72.48;23/08/2023;;;Disponible
+935;Blood, Sweat + Vinyl: DIY in the 21st Century;Documentary;180;Samara Templman;24.46;03/09/2023;;;Disponible
+936;Dam Busters, The;Action|Drama|War;213;Booth Abdy;59.02;04/07/2023;;;Disponible
+937;Cannonball;Action|Comedy|Drama;168;Denyse Baterip;145.17;20/08/2023;;;Disponible
+938;Let It Ride;Comedy;176;Horatio Sannes;134.21;01/03/2023;;;Disponible
+939;Above the Rim;Crime|Drama;164;Zara Have;122.46;15/01/2023;;;Disponible
+940;North by Northwest;Action|Adventure|Mystery|Romance|Thriller;104;Karlotta Hearsum;86.27;10/06/2023;;;Disponible
+941;My Life in Pink (Ma vie en rose);Comedy|Drama;90;Correy Jelly;35.17;13/06/2023;;;Disponible
+942;Next Stop, Greenwich Village;Comedy;93;Sher Mehaffey;54.19;14/08/2023;;;Disponible
+943;Colossal Youth (Juventude Em Marcha);Drama;223;Melody Bysouth;129.25;03/04/2023;;;Disponible
+944;Man Who Loved Women, The;Comedy;161;Melisande Thresh;109.96;25/05/2023;;;Disponible
+945;Blade;Action|Horror|Thriller;170;Gibby Moseby;63.73;08/08/2023;;;Disponible
+946;Office Space;Comedy|Crime;223;Dominick Faireclough;51.38;30/05/2023;;;Disponible
+947;Koumiko Mystery, The (Mystère Koumiko, Le);Documentary;159;Lisabeth Bullcock;132.31;03/06/2023;;;Disponible
+948;Waiting...;Comedy;168;Jemie Riddeough;57.42;13/07/2023;;;Disponible
+949;Chicken Little;Action|Adventure|Animation|Children|Comedy|Sci-Fi;214;Lucky John;21.1;05/07/2023;;;Disponible
+950;Frozen, The;Horror|Thriller;97;Silvana Pendrich;140.68;08/04/2023;;;Disponible
+951;Dorado, El;Drama;220;Jonathan Gilberthorpe;39.69;27/06/2023;;;Disponible
+952;Cover-Up;Action|Thriller;161;Vinita O'Logan;111.55;10/12/2022;;;Disponible
+953;97 Percent True;Documentary;139;Riane Tolemache;41.22;15/04/2023;;;Disponible
+954;Dancer, Texas Pop. 81;Comedy|Drama;159;Waverly Sellick;59.5;24/10/2023;;;Disponible
+955;Viva Cuba;Comedy|Drama;200;Desirae Gerault;31.18;26/02/2023;;;Disponible
+956;Eat Sleep Die (Äta sova dö);Drama;92;Lian Witson;105.84;21/11/2022;;;Disponible
+957;Coming Out;Drama;147;Frank Quan;10.32;25/08/2023;;;Disponible
+958;Home Alone 2: Lost in New York;Children|Comedy;177;Chiarra Prewett;34.19;15/03/2023;;;Disponible
+959;Open Range;Western;235;Robinett Knudsen;53.15;25/01/2023;;;Disponible
+960;Pitch Black;Horror|Sci-Fi|Thriller;132;Binny Becke;43.01;08/02/2023;;;Disponible
+961;Oliver Twist;(no genres listed);108;Zenia Brunesco;43.21;12/06/2023;;;Disponible
+962;Return to House on Haunted Hill;Horror|Thriller;128;Danit Copplestone;100.7;10/03/2023;;;Disponible
+963;Drop Dead Gorgeous;Comedy;190;Kalinda Davenport;95.22;25/06/2023;;;Disponible
+964;Sallah;Comedy;208;Farleigh Cradoc;140.32;25/10/2023;;;Disponible
+965;TMNT (Teenage Mutant Ninja Turtles);Action|Adventure|Animation|Children|Comedy|Fantasy;95;Kev Kobieriecki;86.95;18/06/2023;;;Disponible
+966;Limey, The;Crime|Drama|Thriller;200;Maggee Blaby;86.88;26/08/2023;;;Disponible
+967;Wallace & Gromit: The Best of Aardman Animation;Adventure|Animation|Comedy;113;Marcel Varcoe;110.05;29/03/2023;;;Disponible
+968;In the Soup;Comedy|Drama;162;Magda Parradice;60.49;18/02/2023;;;Disponible
+969;Franz Kafka's a Country Doctor;Animation|Drama;159;Addy Maxwaile;15.0;12/01/2023;;;Disponible
+970;Spring is Here;Comedy|Musical|Romance;179;Clarabelle Shafto;25.38;13/07/2023;;;Disponible
+971;Tremors 3: Back to Perfection;Comedy|Horror|Sci-Fi;135;Alvis Kezourec;11.92;23/12/2022;;;Disponible
+972;Games People Play: New York;Comedy|Documentary|Drama;116;Monica Partleton;80.27;19/12/2022;;;Disponible
+973;Billy Jack;Action|Drama;230;Israel Lowdham;47.26;24/08/2023;;;Disponible
+974;Spy Kids;Action|Adventure|Children|Comedy;106;Mikael Shere;133.94;13/12/2022;;;Disponible
+975;Super Troopers;Comedy|Crime|Mystery;162;Innis Comiskey;27.47;27/11/2022;;;Disponible
+976;Jungle Book 2, The;Animation|Children;115;Roderic Rougier;102.99;03/07/2023;;;Disponible
+977;Big Trees, The;Action|Drama;234;Consolata Cliffe;130.36;24/10/2023;;;Disponible
+978;20 Years After;Drama|Fantasy|Sci-Fi;234;Tiphani Blas;34.32;22/08/2023;;;Disponible
+979;Blade Runner;Action|Sci-Fi|Thriller;157;Kelly Walcar;56.22;14/08/2023;;;Disponible
+980;Man Who Cried, The;Drama;209;Nickie Banes;42.94;09/04/2023;;;Disponible
+981;Good Neighbor Sam;Comedy;130;Gregorio Adamo;147.65;07/01/2023;;;Disponible
+982;Married to the Mob;Comedy;223;Mandel Puddephatt;27.74;08/05/2023;;;Disponible
+983;Saving Private Ryan;Action|Drama|War;159;Benjie Tomaschke;11.8;10/01/2023;;;Disponible
+984;Blue Gold: World Water Wars;Documentary;197;Devina Lynes;21.06;05/12/2022;;;Disponible
+985;Mystery, Alaska;Children|Comedy;146;Blair Lanon;132.98;03/10/2023;;;Disponible
+986;Squall, The;Drama;212;Garwin Keitch;89.93;31/05/2023;;;Disponible
+987;Gun in Betty Lou's Handbag, The;Comedy|Mystery;174;Katheryn Ugoletti;26.36;09/08/2023;;;Disponible
+988;Death on the Staircase (Soupçons);Crime|Documentary;113;Silvio Sneden;11.88;03/09/2023;;;Disponible
+989;War, Inc.;Comedy|Crime|Thriller;135;Kissiah Yves;50.46;08/04/2023;;;Disponible
+990;Peeping Tom;Drama|Horror|Thriller;116;Garreth Boyan;91.66;09/06/2023;;;Disponible
+991;In the Midst of Life (Au coeur de la vie);Drama|War;187;Reese Musslewhite;71.97;23/03/2023;;;Disponible
+992;Pride;Drama;226;Melonie Scohier;95.57;29/09/2023;;;Disponible
+993;Unfinished Sky;Drama|Romance;231;Lucie Barron;15.72;16/02/2023;;;Disponible
+994;Child Bride;Drama;216;Jacintha Katte;109.87;05/01/2023;;;Disponible
+995;Broadcast News;Comedy|Drama|Romance;185;Devora Milberry;21.44;22/10/2023;;;Disponible
+996;Yes: 9012 Live;Documentary|Musical;215;Fairfax Hirche;96.06;09/07/2023;;;Disponible
+997;Ellie Parker;Comedy|Drama;157;Toinette Fist;59.97;10/02/2023;;;Disponible
+998;Crossroads;Drama;239;Mireielle Barehead;50.72;07/06/2023;;;Disponible
+999;Last Exorcism, The;Horror|Thriller;164;Lira Siggee;77.71;30/03/2023;;;Disponible
+1000;Bewitched (Alter Ego);Crime|Drama|Film-Noir|Thriller;140;Cody Oertzen;113.24;26/06/2023;;;Disponible
