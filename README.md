@@ -1,4 +1,5 @@
 Sistema de Gestión de Alquiler de Películas - 2023C
+
 🎥 Descripción del Proyecto
 Este proyecto es un sistema de gestión de alquiler de películas desarrollado por Andrés Pereira y Jean D'Joumblat para un curso universitario en el período académico 2023C. Ofrece una interfaz interactiva para administrar un centro de alquiler de películas, incluyendo la gestión de clientes y películas a través de archivos CSV.
 
