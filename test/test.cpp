@@ -7,6 +7,7 @@
 #include <iomanip>
 #include <locale>
 #include <vector>
+#include <limits>
 
 
 using namespace std;
@@ -36,11 +37,20 @@ void visualizar_info_peli() {
 
         // Preguntar al usuario cuántas películas desea ver
         int num_peliculas;
-        cout << "Ingrese el numero de peliculas que desea ver: ";
-        cin >> num_peliculas;
+        cout << "Ingrese el numero de peliculas de las que desea ver la informacion: ";
+        cin>>num_peliculas;
 
+        // Este bucle while se ejecutara mientras haya un fallo en la entrada de cin o si el número de películas (num_peliculas) es menor o igual a cero.
+        while (cin.fail() || num_peliculas <= 0) {
+            cin.clear(); // Limpiar el estado de error
+            cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // Descartar el resto de la línea
+            cout << "Por favor, ingrese un numero valido de peliculas: ";
+            cin >> num_peliculas;
+        }
+        
         for (int i = 0; i < num_peliculas; ++i) {
-            cin.ignore();  // Limpiar el buffer de entrada
+            // Limpieza adicional del buffer de entrada 
+            cin.ignore();
 
             // Preguntar al usuario el nombre de la película
             cout << "Ingrese el nombre de la pelicula #" << (i + 1) << ": ";
@@ -73,11 +83,12 @@ void visualizar_info_peli() {
                     cout << "Que campos desea visualizar?"<<endl;
                     cout<<"Escribalos separados por comas: (id, movie, genders, duration, director, price, release_on, rent_to, rent_on, status): "<<endl << endl;
                     string campos;
-
                     getline(cin, campos);
 
                     stringstream campos_ss(campos);
                     string campo;
+
+                    //Ciclo para mostrar los campos que desea ver el usuario
                     while (getline(campos_ss, campo, ',')) {
                         campo.erase(remove_if(campo.begin(), campo.end(), ::isspace), campo.end());
                         if (campo == "id") cout << "ID: " << id << endl;
@@ -102,7 +113,7 @@ void visualizar_info_peli() {
 
             // Volver al principio del archivo para la próxima película
             archivo.clear();
-            archivo.seekg(0, ios::beg);
+            archivo.seekg(0, ios::beg); //Se reinicia el puntero del archivo al principio para la próxima iteración del bucle principal.
         }
 
         archivo.close();
@@ -113,7 +124,7 @@ void visualizar_info_peli() {
 //Funcion para filtrar peliculas
 void filtrar_peliculas() {
     int opc;
-    while(opc!=6) {
+    while(opc!=6){
         cout << "---------------Filtrar Peliculas---------------" << endl;
         cout << "1. Por Genero" << endl;
         cout << "2. Por Duracion" << endl;
@@ -125,11 +136,18 @@ void filtrar_peliculas() {
         cin >> opc;
         cout<<" "<<endl;
 
+        while (cin.fail() || opc <= 0) {
+            cin.clear(); // Limpiar el estado de error
+            cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n'); // Descartar el resto de la línea
+            cout << "Opcion no valida. Seleccione una correcta: ";
+            cin >> opc;
+        }
+
         switch (opc) {
             case 1:{
 
                 ifstream archivo("movies.csv", ios::in);
-
+    
                 if (!archivo) {
                 cout << "No se puede abrir el archivo" << endl;
                 } else {
@@ -158,7 +176,7 @@ void filtrar_peliculas() {
                         getline(llave, status, ';');
 
                         // Buscar el género en la lista de géneros de la película
-
+                        
                         if (genero_buscar.compare(genders)==0) {
                             genero_encontrado = true;
                             cout << "ID: " << id << endl;
@@ -218,7 +236,7 @@ void filtrar_peliculas() {
                             cout << "ID: " << id << endl;
                             cout << "Pelicula: " << movie << endl;
                             cout << "Duracion: " << duration << " min" << endl;
-
+        
                         }
                     }
 
@@ -415,7 +433,10 @@ void filtrar_peliculas() {
                 break;
             }
 
-            case 6: menu(); break;
+            case 6:{
+                return;
+
+            } 
             default: {
                 cout << "Opcion no valida. Intentalo de nuevo." << endl;
                 break;
@@ -496,7 +517,7 @@ void agregar_peliculas(){
 
     lectura.close();
     escritura.close();
-
+    
 }
 
 bool existe_cliente(const string& id_client, ifstream& archivo) {
@@ -542,8 +563,9 @@ void registrar_clientes(){
 
     cout << " Ha sido registrado correctamente." << endl;
     archivo_clientes.close();
-
+    
 }
+
 
 //Corregir esta funcion
 void rentar_peliculas() {
@@ -623,8 +645,12 @@ void rentar_peliculas() {
             cout << "Ingrese la fecha del alquiler (YYYY-MM-DD): ";
             cin >> fecha_renta;
 
+            rent_to = id_cliente_rentar;
+            rent_on = fecha_renta;
+            status = "rentada";
+
             // Reconstruir la línea con los datos actualizados
-            linea_pelicula = id + ";" + movie + ";" + genders + ";" + duration + ";" + director + ";" + price + ";" + release_on + ";" + id_cliente_rentar + ";" + fecha_renta + ";" + "rentada";
+            linea_pelicula = id + ";" + movie + ";" + genders + ";" + duration + ";" + director + ";" + price + ";" + release_on + ";" + rent_to + ";" + rent_on + ";" + status;
 
             // Mover el puntero de archivo de nuevo al principio de la línea para sobrescribirla
             lectura_peliculas.seekp(last_pos - static_cast<streamoff>(linea_pelicula.length() + 1));
@@ -649,6 +675,7 @@ void buscar_clientes(){
     cout<<"2. Buscar cliente por nombre. "<<endl;
     cout<<"3. Regresar al menu. "<<endl;
     cin>>op;
+    
 
     switch (op){
 
@@ -830,48 +857,57 @@ void borrar_cliente() {
                   " no existe en el archivo"<<endl<<endl;
         }
     }
-
+    
 }
 
 void consultar_estado_peli(){
     ifstream archivo("movies.csv", ios::in);
     if(!archivo){
         cout<<"Error al abrir el archivo."<<endl<<endl;
-        }else{
-            string linea;
-            string id, movie, director, genders, status;
-            string id_pelicula;
-            cout<<"Ingrese el ID de la pelicula a consultar: ";
-            getline(cin,id_pelicula);
+    }else{
 
-            bool existe = false;
-            while(getline(archivo, linea)){
-                stringstream llave(linea);
-                getline(llave, id, ';');
-                getline(llave, movie, ';');
-                getline(llave, director, ';');
-                getline(llave, genders, ';');
-                getline(llave, status, ';');
+        string linea;
+        string id,movie,genders,duration,director,price,release_on,rent_to,rent_on,status;
+        string id_consultar;
+        
+        bool existe = false;
 
-                if(id_pelicula.compare(id) == 0){
-                    existe = true;
-                    cout<<"ID: "<<id<<endl;
-                    cout<<"Pelicula: "<<movie<<endl;
-                    cout<<"Director: "<<director<<endl;
-                    cout<<"Genero: "<<genders<<endl;
-                    cout<<"Estado: "<<status<<endl;
+        cout<<"Ingrese el ID de la pelicula que desea consultar el estado: ";
+        cin>>id_consultar;
 
-                } 
-            }
+        while(getline(archivo,linea)){
+            stringstream llave(linea);
 
-            cout<<"El estado de la pelicula ha sido consultado exitosamente."<<endl;
-            archivo.close();
-            if(!existe){
-                cout<<"La pelicula a consultar con ese ID no eixste."<<
-                endl<<endl;
+            getline(llave, id, ';');
+            getline(llave, movie, ';');
+            getline(llave, genders, ';');
+            getline(llave, duration, ';');
+            getline(llave, director, ';');
+            getline(llave, price, ';');
+            getline(llave, release_on, ';');
+            getline(llave, rent_to, ';');
+            getline(llave, rent_on, ';');
+            getline(llave, status, ';');
+
+            if(id_consultar.compare(id)==0){
+                existe = true;
+
+                cout<<"ID: "<<id<<endl;
+                cout<<"Pelicula: "<<movie<<endl;
+                cout<<"Duracion: "<<duration<<" min"<<endl;
+                cout<<"Estado: "<<status<<endl;
+
+                cout<<"Se ha consultado el estado de la pelicula exitosamente."<<endl;
             }
         }
+        archivo.close();
+        if(!existe){
+            cout<<"El ID ingresado no existe o no pertenece a ninguna pelicula."<<endl;
+        }
+
+    }
 }
+
 
 // Función para el menú del blockbuster
 void menu() {
@@ -919,3 +955,5 @@ int main() {
     menu();  // Llama a la función del menú
     return 0;
 }
+
+
